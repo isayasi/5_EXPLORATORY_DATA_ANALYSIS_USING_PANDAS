@@ -1,0 +1,1201 @@
+transaction_id,date,time,branch,customer_name,product,category,quantity,unit_price,total_amount,payment_method,staff_name,loyalty_member
+TXN-00001,2024-11-23,08:00,BGC,Carla Aquino,Cheese Danish,Pastry,1,90.0,90.0,Debit Card,Mark Tan,False
+TXN-00002,2024-01-17,07:00,Mandaluyong,Maria Lopez,Caramel Latte,Hot Drinks,2,155.0,310.0,Debit Card,Mira Flores,True
+TXN-00003,2024-08-17,16:30,Quezon City,Andrea Torres,Caramel Latte,Hot Drinks,2,155.0,310.0,GCash,Alvin Santos,True
+TXN-00004,2024-02-17,13:00,Ortigas,Jose Aquino,Matcha Latte,Cold Drinks,2,160.0,320.0,Debit Card,Mark Tan,False
+TXN-00005,2024-02-10,15:30,Mandaluyong,Marco Villanueva,Banana Bread,Pastry,3,80.0,240.0,Cash,Jessa Lim,True
+TXN-00006,2024-05-28,08:15,Alabang,Marco Cruz,Americano,Hot Drinks,1,120.0,120.0,Maya,Paolo Cruz,False
+TXN-00007,2024-12-25,17:00,Ortigas,Luis Cruz,Blueberry Muffin,Pastry,2,85.0,170.0,Credit Card,Diana Reyes,True
+TXN-00008,2024-12-16,12:00,BGC,Lea Torres,Brewed Coffee,Hot Drinks,3,95.0,285.0,GCash,Alvin Santos,True
+TXN-00009,2024-12-01,14:45,Pasig,Carla Garcia,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Mira Flores,False
+TXN-00010,2024-07-04,10:15,BGC,Jose De Leon,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Rina Ocampo,False
+TXN-00011,2024-11-01,08:45,Makati,Tanya Torres,Cold Brew,Cold Drinks,5,150.0,750.0,Cash,Diana Reyes,False
+TXN-00012,2024-02-27,11:45,Quezon City,Isabella Lopez,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Mark Tan,False
+TXN-00013,2024-11-23,15:15,Makati,Felix Castillo,Cappuccino,Hot Drinks,3,145.0,435.0,Debit Card,Alvin Santos,False
+TXN-00014,2024-01-10,08:30,BGC,Clara Reyes,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Credit Card,Mark Tan,True
+TXN-00015,2024-03-06,17:45,Mandaluyong,Renz Ramos,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Paolo Cruz,False
+TXN-00016,2024-07-23,17:30,BGC,Luis Garcia,Cold Brew,Cold Drinks,2,150.0,300.0,Maya,Jessa Lim,True
+TXN-00017,2024-10-28,10:00,Alabang,Jose De Leon,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Paolo Cruz,False
+TXN-00018,2024-12-08,14:15,Ortigas,Clara Villanueva,Blueberry Muffin,Pastry,2,85.0,170.0,GCash,Ryan Go,False
+TXN-00019,2024-04-07,08:00,Makati,Nico Mendoza,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Jessa Lim,False
+TXN-00020,2024-06-22,19:00,Cubao,Patricia Cruz,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Diana Reyes,False
+TXN-00021,2024-05-07,20:00,Makati,Felix De Leon,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Paolo Cruz,True
+TXN-00022,2024-07-27,14:45,Makati,Miguel Ramos,Americano,Hot Drinks,4,120.0,480.0,Credit Card,Diana Reyes,False
+TXN-00023,2024-05-26,13:45,Makati,Jose Villanueva,Caramel Latte,Hot Drinks,1,155.0,155.0,Maya,Jessa Lim,True
+TXN-00024,2024-10-26,14:15,BGC,Miguel Reyes,Hot Chocolate,Hot Drinks,1,130.0,130.0,GCash,Mira Flores,True
+TXN-00025,2024-10-18,10:00,Alabang,Clara Villanueva,Chocolate Croissant,Pastry,1,95.0,95.0,Maya,Paolo Cruz,False
+TXN-00026,2024-05-02,11:45,Ortigas,Ana Santos,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Mark Tan,True
+TXN-00027,2024-10-02,10:30,Pasig,Luis Flores,Cappuccino,Hot Drinks,3,145.0,435.0,GCash,Ryan Go,False
+TXN-00028,2024-11-09,19:00,Quezon City,Juan Gonzales,Banana Bread,Pastry,1,80.0,80.0,Maya,Mark Tan,True
+TXN-00029,2024-10-10,09:30,Pasig,Andrea Garcia,Cold Brew,Cold Drinks,1,150.0,150.0,Debit Card,Ryan Go,False
+TXN-00030,2024-01-27,08:45,Pasig,Carla Bautista,Iced Americano,Cold Drinks,1,130.0,130.0,GCash,Ryan Go,False
+TXN-00031,2024-10-14,07:00,Quezon City,Marco Villanueva,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Rina Ocampo,True
+TXN-00032,2024-06-06,12:00,Cubao,Juan Flores,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Debit Card,Rina Ocampo,True
+TXN-00033,2024-03-24,19:15,Cubao,Andrea Castillo,Iced Americano,Cold Drinks,1,130.0,130.0,GCash,Diana Reyes,True
+TXN-00034,2024-12-25,08:45,Pasig,Patricia Flores,Americano,Hot Drinks,1,120.0,120.0,GCash,Paolo Cruz,True
+TXN-00035,2024-12-03,10:45,Cubao,Isabella Flores,Matcha Latte,Cold Drinks,3,160.0,480.0,Debit Card,Alvin Santos,True
+TXN-00036,2024-02-29,11:15,Alabang,Renz Ramos,Cheese Danish,Pastry,1,90.0,90.0,Maya,Mira Flores,True
+TXN-00037,2024-07-16,16:15,Mandaluyong,Maria Lopez,Iced Americano,Cold Drinks,2,130.0,260.0,Maya,Mira Flores,True
+TXN-00038,2024-12-06,12:30,Pasig,Carlos Lopez,Chocolate Croissant,Pastry,2,95.0,190.0,Credit Card,Alvin Santos,False
+TXN-00039,2024-12-22,11:15,Quezon City,Lea Bautista,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Diana Reyes,False
+TXN-00040,2024-10-07,20:00,Alabang,Clara Villanueva,Matcha Latte,Cold Drinks,1,160.0,160.0,Credit Card,Ryan Go,False
+TXN-00041,2024-12-11,10:45,Alabang,Carlos Lopez,Blueberry Muffin,Pastry,2,85.0,170.0,Cash,Paolo Cruz,False
+TXN-00042,2024-04-25,19:15,BGC,Ramon Villanueva,Brewed Coffee,Hot Drinks,1,95.0,95.0,Credit Card,Mira Flores,True
+TXN-00043,2024-12-22,13:45,BGC,Maria Gonzales,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Credit Card,Paolo Cruz,True
+TXN-00044,2024-12-22,15:45,Quezon City,Juan Mendoza,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Alvin Santos,False
+TXN-00045,2024-11-09,20:45,Pasig,Ramon Mendoza,Cinnamon Roll,Pastry,3,100.0,300.0,GCash,Diana Reyes,False
+TXN-00046,2024-11-16,10:30,Alabang,Luis Torres,Iced Americano,Cold Drinks,2,130.0,260.0,Maya,Mark Tan,True
+TXN-00047,2024-03-18,10:45,Cubao,Ana Ramos,Blueberry Muffin,Pastry,2,85.0,170.0,Maya,Ryan Go,False
+TXN-00048,2024-02-01,10:45,Cubao,Maria De Leon,Cold Brew,Cold Drinks,4,150.0,600.0,Credit Card,Jessa Lim,False
+TXN-00049,2024-06-01,19:45,Mandaluyong,Felix Castillo,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Paolo Cruz,False
+TXN-00050,2024-08-11,14:00,Quezon City,Lea Aquino,Matcha Latte,Cold Drinks,2,160.0,320.0,Credit Card,Rina Ocampo,True
+TXN-00051,2024-07-20,16:00,Makati,Patricia Cruz,Americano,Hot Drinks,1,120.0,120.0,Maya,Mira Flores,False
+TXN-00052,2024-04-18,14:30,BGC,Nico Torres,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Credit Card,Jessa Lim,True
+TXN-00053,2024-06-28,10:00,Makati,Luis Garcia,Chocolate Croissant,Pastry,3,95.0,285.0,Debit Card,Rina Ocampo,True
+TXN-00054,2024-03-05,14:00,Alabang,Isabella Castillo,Blueberry Muffin,Pastry,2,85.0,170.0,GCash,Mark Tan,True
+TXN-00055,2024-06-08,08:00,Mandaluyong,Lea Ramos,Cold Brew,Cold Drinks,2,150.0,300.0,Cash,Paolo Cruz,True
+TXN-00056,2024-12-22,19:30,Makati,Clara Castillo,Banana Bread,Pastry,3,80.0,240.0,Maya,Mira Flores,False
+TXN-00057,2024-02-05,15:30,Alabang,Juan Ramos,Americano,Hot Drinks,3,120.0,360.0,Credit Card,Rina Ocampo,False
+TXN-00058,2024-03-31,18:30,Pasig,Patricia Ramos,Banana Bread,Pastry,3,80.0,240.0,Maya,Paolo Cruz,True
+TXN-00059,2024-05-22,14:15,Makati,Lea Flores,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Alvin Santos,True
+TXN-00060,2024-09-06,10:30,Pasig,Renz Aquino,Matcha Latte,Cold Drinks,1,160.0,160.0,Debit Card,Jessa Lim,True
+TXN-00061,2024-02-13,10:45,Ortigas,Ramon Bautista,Cold Brew,Cold Drinks,3,150.0,450.0,Credit Card,Jessa Lim,True
+TXN-00062,2024-05-30,10:45,Ortigas,Clara Flores,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Alvin Santos,False
+TXN-00063,2024-10-08,12:30,BGC,Isabella Garcia,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Alvin Santos,True
+TXN-00064,2024-10-01,19:15,Pasig,Isabella Aquino,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Paolo Cruz,False
+TXN-00065,2024-04-26,12:15,Makati,Carla Torres,Iced Americano,Cold Drinks,2,130.0,260.0,Cash,Diana Reyes,True
+TXN-00066,2024-11-22,20:45,Ortigas,Ramon Mendoza,Brewed Coffee,Hot Drinks,2,95.0,190.0,Maya,Rina Ocampo,True
+TXN-00067,2024-05-09,20:45,Makati,Ana Villanueva,Brewed Coffee,Hot Drinks,1,95.0,95.0,GCash,Rina Ocampo,False
+TXN-00068,2024-02-13,10:00,Cubao,Renz Garcia,Cinnamon Roll,Pastry,2,100.0,200.0,Credit Card,Ryan Go,False
+TXN-00069,2024-10-28,13:30,Mandaluyong,Juan Castillo,Banana Bread,Pastry,1,80.0,80.0,GCash,Diana Reyes,True
+TXN-00070,2024-03-21,10:15,Ortigas,Nico Mendoza,Chocolate Croissant,Pastry,1,95.0,95.0,Maya,Jessa Lim,True
+TXN-00071,2024-05-27,18:30,Pasig,Luis Gonzales,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Paolo Cruz,False
+TXN-00072,2024-02-28,15:15,Makati,Carla Reyes,Blueberry Muffin,Pastry,4,85.0,340.0,GCash,Diana Reyes,False
+TXN-00073,2024-08-12,08:45,Ortigas,Isabella Lopez,Cheese Danish,Pastry,2,90.0,180.0,Credit Card,Mark Tan,True
+TXN-00074,2024-08-09,18:30,Makati,Luis Bautista,Cheese Danish,Pastry,1,90.0,90.0,Maya,Jessa Lim,True
+TXN-00075,2024-08-28,15:45,Ortigas,Nico Bautista,Iced Caramel Latte,Cold Drinks,5,165.0,825.0,Cash,Ryan Go,False
+TXN-00076,2024-07-28,12:30,Ortigas,Andrea Ramos,Chocolate Croissant,Pastry,3,95.0,285.0,Maya,Mira Flores,True
+TXN-00077,2024-08-20,08:30,Makati,Lea De Leon,Matcha Latte,Cold Drinks,1,160.0,160.0,Debit Card,Ryan Go,False
+TXN-00078,2024-01-28,10:30,Pasig,Jose Garcia,Cinnamon Roll,Pastry,2,100.0,200.0,Debit Card,Rina Ocampo,False
+TXN-00079,2024-08-12,18:45,Mandaluyong,Renz Castillo,Brewed Coffee,Hot Drinks,5,95.0,475.0,GCash,Diana Reyes,True
+TXN-00080,2024-10-09,13:00,Quezon City,Juan Bautista,Brewed Coffee,Hot Drinks,2,95.0,190.0,Credit Card,Diana Reyes,False
+TXN-00081,2024-07-31,20:45,Mandaluyong,Carla Ramos,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Debit Card,Rina Ocampo,True
+TXN-00082,2024-05-21,19:45,Pasig,Maria Torres,Cold Brew,Cold Drinks,1,150.0,150.0,Debit Card,Ryan Go,True
+TXN-00083,2024-08-16,15:45,Ortigas,Felix Ramos,Matcha Latte,Cold Drinks,2,160.0,320.0,Maya,Paolo Cruz,True
+TXN-00084,2024-10-19,13:15,Cubao,Ramon Aquino,Iced Americano,Cold Drinks,1,130.0,130.0,Credit Card,Rina Ocampo,False
+TXN-00085,2024-01-19,09:30,Quezon City,Patricia Santos,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Rina Ocampo,True
+TXN-00086,2024-08-28,19:30,Alabang,Ana De Leon,Cold Brew,Cold Drinks,2,150.0,300.0,Debit Card,Mira Flores,False
+TXN-00087,2024-11-16,18:45,Pasig,Luis Bautista,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Mark Tan,False
+TXN-00088,2024-02-20,19:00,Alabang,Maria Santos,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Cash,Diana Reyes,False
+TXN-00089,2024-07-10,13:15,Quezon City,Miguel Cruz,Hot Chocolate,Hot Drinks,1,130.0,130.0,Cash,Mira Flores,True
+TXN-00090,2024-09-11,16:15,Makati,Patricia Torres,Americano,Hot Drinks,2,120.0,240.0,Credit Card,Diana Reyes,True
+TXN-00091,2024-02-07,14:30,Pasig,Nico Aquino,Cheese Danish,Pastry,2,90.0,180.0,Credit Card,Diana Reyes,True
+TXN-00092,2024-07-15,20:45,Pasig,Marco Villanueva,Caramel Latte,Hot Drinks,1,155.0,155.0,Maya,Jessa Lim,False
+TXN-00093,2024-05-20,07:00,Mandaluyong,Carlos Castillo,Cinnamon Roll,Pastry,3,100.0,300.0,Debit Card,Alvin Santos,True
+TXN-00094,2024-11-21,10:30,Ortigas,Jose Torres,Blueberry Muffin,Pastry,2,85.0,170.0,Cash,Alvin Santos,True
+TXN-00095,2024-02-16,11:30,Alabang,Carla Castillo,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Diana Reyes,True
+TXN-00096,2024-05-11,20:45,Quezon City,Patricia Reyes,Matcha Latte,Cold Drinks,3,160.0,480.0,GCash,Mira Flores,False
+TXN-00097,2024-02-16,19:45,Pasig,Patricia Flores,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Mira Flores,False
+TXN-00098,2024-02-25,17:15,Mandaluyong,Felix Flores,Iced Americano,Cold Drinks,2,130.0,260.0,Cash,Ryan Go,False
+TXN-00099,2024-11-28,13:00,BGC,Carlos Mendoza,Brewed Coffee,Hot Drinks,4,95.0,380.0,Cash,Paolo Cruz,True
+TXN-00100,2024-07-17,14:30,Cubao,Carla Gonzales,Banana Bread,Pastry,1,80.0,80.0,Cash,Ryan Go,False
+TXN-00101,2024-05-23,07:30,Alabang,Luis De Leon,Americano,Hot Drinks,1,120.0,120.0,Cash,Alvin Santos,False
+TXN-00102,2024-02-01,13:30,Mandaluyong,Patricia Reyes,Brewed Coffee,Hot Drinks,4,95.0,380.0,Debit Card,Jessa Lim,True
+TXN-00103,2024-06-19,10:15,Mandaluyong,Felix Garcia,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Alvin Santos,True
+TXN-00104,2024-11-01,07:30,Makati,Miguel Reyes,Caramel Latte,Hot Drinks,2,155.0,310.0,GCash,Jessa Lim,False
+TXN-00105,2024-05-01,16:30,Cubao,Carla Aquino,Caramel Latte,Hot Drinks,1,155.0,155.0,Debit Card,Mark Tan,True
+TXN-00106,2024-08-31,14:30,Makati,Tanya Garcia,Banana Bread,Pastry,1,80.0,80.0,Debit Card,Diana Reyes,False
+TXN-00107,2024-11-25,07:00,Ortigas,Juan Mendoza,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Cash,Mark Tan,False
+TXN-00108,2024-11-07,09:00,Alabang,Clara Lopez,Cappuccino,Hot Drinks,2,145.0,290.0,Credit Card,Diana Reyes,False
+TXN-00109,2024-09-15,16:45,Mandaluyong,Felix Aquino,Brewed Coffee,Hot Drinks,3,95.0,285.0,Credit Card,Ryan Go,True
+TXN-00110,2024-07-30,12:45,Alabang,Andrea Ramos,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Maya,Alvin Santos,True
+TXN-00111,2024-12-17,14:00,Alabang,Juan Aquino,Brewed Coffee,Hot Drinks,1,95.0,95.0,GCash,Jessa Lim,False
+TXN-00112,2024-12-09,08:45,Pasig,Jose Torres,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Maya,Mark Tan,True
+TXN-00113,2024-03-20,17:45,BGC,Felix Flores,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Paolo Cruz,False
+TXN-00114,2024-10-14,19:00,Pasig,Isabella Aquino,Cheese Danish,Pastry,1,90.0,90.0,Maya,Alvin Santos,True
+TXN-00115,2024-04-02,20:15,Mandaluyong,Maria Reyes,Cinnamon Roll,Pastry,1,100.0,100.0,Credit Card,Mira Flores,False
+TXN-00116,2024-06-23,09:30,BGC,Clara Villanueva,Matcha Latte,Cold Drinks,3,160.0,480.0,Cash,Rina Ocampo,True
+TXN-00117,2024-11-12,07:00,Ortigas,Ramon Villanueva,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Credit Card,Diana Reyes,True
+TXN-00118,2024-09-19,08:30,Pasig,Clara Mendoza,Iced Americano,Cold Drinks,1,130.0,130.0,Cash,Paolo Cruz,False
+TXN-00119,2024-11-02,07:00,Pasig,Carla Castillo,Cappuccino,Hot Drinks,4,145.0,580.0,Maya,Alvin Santos,True
+TXN-00120,2024-01-04,14:45,Alabang,Luis Lopez,Caramel Latte,Hot Drinks,1,155.0,155.0,Cash,Mira Flores,True
+TXN-00121,2024-08-11,07:45,Cubao,Clara Ramos,Cappuccino,Hot Drinks,2,145.0,290.0,Maya,Mark Tan,False
+TXN-00122,2024-01-11,12:15,Cubao,Marco Reyes,Cinnamon Roll,Pastry,3,100.0,300.0,Cash,Paolo Cruz,False
+TXN-00123,2024-10-28,13:00,Quezon City,Luis Flores,Matcha Latte,Cold Drinks,2,160.0,320.0,Cash,Mark Tan,True
+TXN-00124,2024-06-27,12:15,Quezon City,Sofia Cruz,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Rina Ocampo,False
+TXN-00125,2024-08-25,19:45,Alabang,Renz Flores,Banana Bread,Pastry,2,80.0,160.0,GCash,Ryan Go,True
+TXN-00126,2024-08-28,14:30,Pasig,Tanya Reyes,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Ryan Go,True
+TXN-00127,2024-01-30,12:30,Ortigas,Tanya Ramos,Brewed Coffee,Hot Drinks,2,95.0,190.0,Debit Card,Jessa Lim,False
+TXN-00128,2024-10-19,17:15,Ortigas,Carla Santos,Cold Brew,Cold Drinks,2,150.0,300.0,Cash,Alvin Santos,True
+TXN-00129,2024-09-15,17:15,Quezon City,Patricia Lopez,Caramel Latte,Hot Drinks,2,155.0,310.0,Maya,Alvin Santos,False
+TXN-00130,2024-07-17,13:30,Alabang,Andrea Reyes,Banana Bread,Pastry,1,80.0,80.0,Cash,Mira Flores,False
+TXN-00131,2024-05-09,18:15,Alabang,Carla Gonzales,Iced Americano,Cold Drinks,2,130.0,260.0,Maya,Mira Flores,True
+TXN-00132,2024-10-31,18:00,Quezon City,Andrea De Leon,Cold Brew,Cold Drinks,1,150.0,150.0,Debit Card,Mark Tan,False
+TXN-00133,2024-09-17,12:00,Ortigas,Sofia Flores,Matcha Latte,Cold Drinks,1,160.0,160.0,GCash,Paolo Cruz,True
+TXN-00134,2024-03-20,08:30,Alabang,Tanya Santos,Hot Chocolate,Hot Drinks,3,130.0,390.0,Debit Card,Rina Ocampo,False
+TXN-00135,2024-03-19,09:15,Ortigas,Miguel Aquino,Banana Bread,Pastry,3,80.0,240.0,Cash,Mira Flores,False
+TXN-00136,2024-12-12,18:15,Mandaluyong,Patricia Garcia,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Ryan Go,True
+TXN-00137,2024-07-07,17:45,Cubao,Tanya Lopez,Matcha Latte,Cold Drinks,3,160.0,480.0,GCash,Paolo Cruz,True
+TXN-00138,2024-05-08,07:45,BGC,Tanya De Leon,Cold Brew,Cold Drinks,4,150.0,600.0,Maya,Mark Tan,True
+TXN-00139,2024-05-19,14:15,Ortigas,Luis De Leon,Iced Americano,Cold Drinks,4,130.0,520.0,Maya,Jessa Lim,False
+TXN-00140,2024-01-28,13:30,Makati,Marco Garcia,Americano,Hot Drinks,5,120.0,600.0,Maya,Mark Tan,False
+TXN-00141,2024-03-15,09:00,Ortigas,Carla Castillo,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Credit Card,Jessa Lim,True
+TXN-00142,2024-01-10,11:15,Cubao,Renz Lopez,Hot Chocolate,Hot Drinks,4,130.0,520.0,Cash,Diana Reyes,True
+TXN-00143,2024-06-03,08:00,BGC,Renz Mendoza,Americano,Hot Drinks,2,120.0,240.0,Cash,Ryan Go,True
+TXN-00144,2024-11-19,15:15,Alabang,Maria Villanueva,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Mira Flores,True
+TXN-00145,2024-12-06,17:00,Makati,Tanya Lopez,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Ryan Go,True
+TXN-00146,2024-11-21,13:30,Mandaluyong,Ana Flores,Iced Americano,Cold Drinks,1,130.0,130.0,Cash,Alvin Santos,True
+TXN-00147,2024-01-23,12:30,Ortigas,Patricia Aquino,Blueberry Muffin,Pastry,3,85.0,255.0,GCash,Rina Ocampo,True
+TXN-00148,2024-08-22,07:30,Pasig,Jose Flores,Brewed Coffee,Hot Drinks,3,95.0,285.0,Debit Card,Mira Flores,False
+TXN-00149,2024-05-09,07:15,Alabang,Jose De Leon,Matcha Latte,Cold Drinks,3,160.0,480.0,Maya,Mark Tan,False
+TXN-00150,2024-08-11,13:45,Ortigas,Ramon Aquino,Matcha Latte,Cold Drinks,5,160.0,800.0,Maya,Diana Reyes,True
+TXN-00151,2024-08-05,08:45,BGC,Andrea Reyes,Blueberry Muffin,Pastry,2,85.0,170.0,Maya,Diana Reyes,False
+TXN-00152,2024-08-16,16:45,Alabang,Jose Aquino,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Mira Flores,False
+TXN-00153,2024-11-23,19:00,Quezon City,Miguel Santos,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Ryan Go,True
+TXN-00154,2024-03-05,08:15,Quezon City,Clara Santos,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Alvin Santos,False
+TXN-00155,2024-08-15,19:00,Pasig,Lea Flores,Blueberry Muffin,Pastry,2,85.0,170.0,GCash,Mark Tan,True
+TXN-00156,2024-04-05,14:45,Ortigas,Isabella Aquino,Chocolate Croissant,Pastry,1,95.0,95.0,GCash,Diana Reyes,False
+TXN-00157,2024-04-12,08:15,Alabang,Patricia Reyes,Americano,Hot Drinks,1,120.0,120.0,Maya,Mark Tan,False
+TXN-00158,2024-06-02,20:15,BGC,Tanya Garcia,Blueberry Muffin,Pastry,3,85.0,255.0,GCash,Rina Ocampo,True
+TXN-00159,2024-09-09,07:30,BGC,Felix Cruz,Banana Bread,Pastry,1,80.0,80.0,Cash,Diana Reyes,False
+TXN-00160,2024-09-02,15:45,BGC,Andrea Bautista,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Ryan Go,False
+TXN-00161,2024-03-06,20:15,BGC,Jose De Leon,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Rina Ocampo,False
+TXN-00162,2024-03-25,09:30,Pasig,Tanya Gonzales,Blueberry Muffin,Pastry,1,85.0,85.0,Cash,Diana Reyes,True
+TXN-00163,2024-11-21,15:30,Quezon City,Ana Lopez,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Rina Ocampo,True
+TXN-00164,2024-12-03,16:30,Makati,Maria Reyes,Chocolate Croissant,Pastry,3,95.0,285.0,Debit Card,Diana Reyes,True
+TXN-00165,2024-10-19,13:00,Mandaluyong,Carlos Mendoza,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Diana Reyes,False
+TXN-00166,2024-02-07,18:00,Alabang,Patricia Garcia,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Rina Ocampo,False
+TXN-00167,2024-06-12,18:30,BGC,Tanya Lopez,Iced Caramel Latte,Cold Drinks,3,165.0,495.0,Maya,Paolo Cruz,False
+TXN-00168,2024-03-03,11:45,Cubao,Carlos Ramos,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Rina Ocampo,False
+TXN-00169,2024-10-22,18:30,Ortigas,Tanya Mendoza,Caramel Latte,Hot Drinks,2,155.0,310.0,Maya,Ryan Go,True
+TXN-00170,2024-02-16,13:45,Pasig,Jose Santos,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Ryan Go,False
+TXN-00171,2024-10-01,07:00,Cubao,Marco Castillo,Iced Caramel Latte,Cold Drinks,3,165.0,495.0,Maya,Jessa Lim,False
+TXN-00172,2024-01-27,16:15,Ortigas,Lea Lopez,Cold Brew,Cold Drinks,1,150.0,150.0,Debit Card,Diana Reyes,True
+TXN-00173,2024-03-06,08:45,Quezon City,Marco Castillo,Matcha Latte,Cold Drinks,2,160.0,320.0,GCash,Mira Flores,True
+TXN-00174,2024-01-24,07:15,Quezon City,Tanya Mendoza,Cheese Danish,Pastry,3,90.0,270.0,Debit Card,Rina Ocampo,False
+TXN-00175,2024-11-09,12:15,Alabang,Carlos Villanueva,Cold Brew,Cold Drinks,2,150.0,300.0,Debit Card,Ryan Go,False
+TXN-00176,2024-08-31,20:00,Pasig,Nico Villanueva,Matcha Latte,Cold Drinks,2,160.0,320.0,Cash,Ryan Go,False
+TXN-00177,2024-12-01,19:15,Cubao,Miguel Lopez,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Paolo Cruz,True
+TXN-00178,2024-10-20,18:00,Cubao,Nico Cruz,Brewed Coffee,Hot Drinks,1,95.0,95.0,GCash,Mira Flores,False
+TXN-00179,2024-02-01,18:15,Cubao,Ramon Lopez,Blueberry Muffin,Pastry,2,85.0,170.0,Maya,Rina Ocampo,False
+TXN-00180,2024-09-29,12:30,Pasig,Sofia Garcia,Cheese Danish,Pastry,2,90.0,180.0,Debit Card,Diana Reyes,True
+TXN-00181,2024-06-01,19:30,Ortigas,Ramon Flores,Blueberry Muffin,Pastry,2,85.0,170.0,Maya,Diana Reyes,False
+TXN-00182,2024-03-03,16:45,Makati,Carla Torres,Matcha Latte,Cold Drinks,4,160.0,640.0,Maya,Mark Tan,False
+TXN-00183,2024-08-14,17:30,Pasig,Felix Torres,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Mark Tan,True
+TXN-00184,2024-05-04,07:15,Ortigas,Nico Flores,Blueberry Muffin,Pastry,1,85.0,85.0,Cash,Rina Ocampo,True
+TXN-00185,2024-10-08,09:45,Pasig,Sofia Castillo,Cinnamon Roll,Pastry,2,100.0,200.0,Maya,Diana Reyes,True
+TXN-00186,2024-02-15,17:15,Quezon City,Miguel Ramos,Chocolate Croissant,Pastry,4,95.0,380.0,Cash,Mira Flores,False
+TXN-00187,2024-04-05,18:30,Alabang,Renz Reyes,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Ryan Go,False
+TXN-00188,2024-03-09,20:45,Ortigas,Andrea Cruz,Iced Caramel Latte,Cold Drinks,3,165.0,495.0,Maya,Rina Ocampo,True
+TXN-00189,2024-06-21,19:30,Cubao,Lea De Leon,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Alvin Santos,True
+TXN-00190,2024-07-24,17:00,Pasig,Luis Santos,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Paolo Cruz,False
+TXN-00191,2024-05-16,12:30,Mandaluyong,Marco Aquino,Banana Bread,Pastry,1,80.0,80.0,Cash,Mark Tan,False
+TXN-00192,2024-06-06,09:45,BGC,Carlos Aquino,Banana Bread,Pastry,4,80.0,320.0,Maya,Alvin Santos,True
+TXN-00193,2024-04-22,09:45,Cubao,Renz Flores,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Ryan Go,True
+TXN-00194,2024-05-06,17:00,BGC,Marco Reyes,Cinnamon Roll,Pastry,2,100.0,200.0,Cash,Paolo Cruz,True
+TXN-00195,2024-03-25,12:45,Ortigas,Ramon Reyes,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Ryan Go,True
+TXN-00196,2024-09-19,13:45,Makati,Carlos Aquino,Chocolate Croissant,Pastry,2,95.0,190.0,Credit Card,Diana Reyes,True
+TXN-00197,2024-04-21,16:00,Makati,Ana Lopez,Americano,Hot Drinks,1,120.0,120.0,Cash,Ryan Go,True
+TXN-00198,2024-05-26,13:15,Cubao,Lea Mendoza,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Mark Tan,True
+TXN-00199,2024-11-30,20:30,Quezon City,Lea Lopez,Caramel Latte,Hot Drinks,5,155.0,775.0,GCash,Jessa Lim,True
+TXN-00200,2024-06-01,14:45,Alabang,Luis Mendoza,Cinnamon Roll,Pastry,3,100.0,300.0,GCash,Diana Reyes,True
+TXN-00201,2024-02-27,07:45,Makati,Ana Reyes,Chocolate Croissant,Pastry,1,95.0,95.0,Credit Card,Jessa Lim,True
+TXN-00202,2024-01-23,13:45,Pasig,Jose Cruz,Hot Chocolate,Hot Drinks,1,130.0,130.0,GCash,Alvin Santos,False
+TXN-00203,2024-05-01,11:15,Makati,Carlos Torres,Banana Bread,Pastry,1,80.0,80.0,Debit Card,Rina Ocampo,False
+TXN-00204,2024-10-11,14:00,Cubao,Andrea Aquino,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Credit Card,Rina Ocampo,False
+TXN-00205,2024-07-11,09:45,Ortigas,Carla Castillo,Caramel Latte,Hot Drinks,1,155.0,155.0,Cash,Mira Flores,False
+TXN-00206,2024-10-12,15:15,BGC,Andrea Bautista,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Credit Card,Alvin Santos,True
+TXN-00207,2024-10-01,18:15,Makati,Renz Villanueva,Cappuccino,Hot Drinks,1,145.0,145.0,Cash,Paolo Cruz,True
+TXN-00208,2024-09-02,10:30,BGC,Sofia Aquino,Iced Americano,Cold Drinks,1,130.0,130.0,Credit Card,Paolo Cruz,True
+TXN-00209,2024-07-22,10:30,Pasig,Marco Torres,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Maya,Ryan Go,False
+TXN-00210,2024-02-20,19:45,Mandaluyong,Nico Santos,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,GCash,Jessa Lim,False
+TXN-00211,2024-10-10,16:45,Mandaluyong,Luis Ramos,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Credit Card,Alvin Santos,False
+TXN-00212,2024-09-07,18:45,Quezon City,Marco Cruz,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Debit Card,Ryan Go,True
+TXN-00213,2024-10-04,17:00,Makati,Ana De Leon,Chocolate Croissant,Pastry,3,95.0,285.0,Cash,Mira Flores,True
+TXN-00214,2024-11-18,10:00,Alabang,Tanya Mendoza,Blueberry Muffin,Pastry,1,85.0,85.0,Cash,Ryan Go,False
+TXN-00215,2024-01-09,07:45,Pasig,Isabella Lopez,Brewed Coffee,Hot Drinks,2,95.0,190.0,Cash,Mira Flores,True
+TXN-00216,2024-02-24,08:15,Alabang,Isabella De Leon,Caramel Latte,Hot Drinks,2,155.0,310.0,Maya,Mira Flores,True
+TXN-00217,2024-07-10,13:45,BGC,Luis Torres,Blueberry Muffin,Pastry,5,85.0,425.0,Cash,Mark Tan,False
+TXN-00218,2024-07-13,13:45,Cubao,Ana Mendoza,Brewed Coffee,Hot Drinks,2,95.0,190.0,Maya,Mark Tan,True
+TXN-00219,2024-04-27,10:45,Makati,Isabella Gonzales,Iced Americano,Cold Drinks,4,130.0,520.0,GCash,Alvin Santos,True
+TXN-00220,2024-04-16,16:15,Mandaluyong,Carlos Cruz,Cinnamon Roll,Pastry,4,100.0,400.0,Debit Card,Mira Flores,False
+TXN-00221,2024-07-15,19:15,BGC,Marco Santos,Chocolate Croissant,Pastry,2,95.0,190.0,Credit Card,Paolo Cruz,True
+TXN-00222,2024-06-23,16:45,Mandaluyong,Patricia Mendoza,Iced Americano,Cold Drinks,2,130.0,260.0,Maya,Mira Flores,False
+TXN-00223,2024-04-05,17:45,BGC,Luis Aquino,Hot Chocolate,Hot Drinks,1,130.0,130.0,Cash,Diana Reyes,True
+TXN-00224,2024-07-13,18:15,Makati,Juan Reyes,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Ryan Go,False
+TXN-00225,2024-05-18,08:15,Cubao,Felix Lopez,Caramel Latte,Hot Drinks,1,155.0,155.0,Cash,Jessa Lim,True
+TXN-00226,2024-06-30,15:00,Pasig,Lea Santos,Banana Bread,Pastry,3,80.0,240.0,Credit Card,Mira Flores,True
+TXN-00227,2024-10-13,10:15,Pasig,Isabella Torres,Cinnamon Roll,Pastry,1,100.0,100.0,Credit Card,Rina Ocampo,True
+TXN-00228,2024-03-26,13:30,Pasig,Ana Flores,Matcha Latte,Cold Drinks,2,160.0,320.0,GCash,Ryan Go,True
+TXN-00229,2024-08-22,08:15,Cubao,Andrea De Leon,Iced Americano,Cold Drinks,4,130.0,520.0,Maya,Ryan Go,False
+TXN-00230,2024-08-08,20:15,Alabang,Sofia Mendoza,Matcha Latte,Cold Drinks,2,160.0,320.0,GCash,Mira Flores,False
+TXN-00231,2024-05-29,18:45,Cubao,Isabella De Leon,Blueberry Muffin,Pastry,1,85.0,85.0,Maya,Mark Tan,True
+TXN-00232,2024-10-30,15:15,Mandaluyong,Patricia Aquino,Banana Bread,Pastry,1,80.0,80.0,Credit Card,Diana Reyes,True
+TXN-00233,2024-07-28,17:45,Cubao,Carla Aquino,Cappuccino,Hot Drinks,1,145.0,145.0,Credit Card,Mark Tan,False
+TXN-00234,2024-11-02,14:45,Makati,Nico Lopez,Banana Bread,Pastry,4,80.0,320.0,Maya,Mark Tan,True
+TXN-00235,2024-05-07,17:30,Alabang,Lea Castillo,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Mark Tan,True
+TXN-00236,2024-02-20,11:15,Ortigas,Clara Garcia,Banana Bread,Pastry,2,80.0,160.0,Maya,Mira Flores,False
+TXN-00237,2024-12-13,16:15,BGC,Carlos Ramos,Iced Americano,Cold Drinks,2,130.0,260.0,Cash,Rina Ocampo,False
+TXN-00238,2024-06-08,12:45,Ortigas,Ramon Reyes,Hot Chocolate,Hot Drinks,2,130.0,260.0,Credit Card,Alvin Santos,True
+TXN-00239,2024-06-02,07:00,Mandaluyong,Miguel Gonzales,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Rina Ocampo,True
+TXN-00240,2024-06-18,15:45,Cubao,Miguel Cruz,Iced Caramel Latte,Cold Drinks,3,165.0,495.0,Credit Card,Jessa Lim,True
+TXN-00241,2024-08-18,16:45,BGC,Sofia Torres,Iced Americano,Cold Drinks,2,130.0,260.0,Debit Card,Mark Tan,True
+TXN-00242,2024-07-06,12:15,Alabang,Ramon Lopez,Iced Americano,Cold Drinks,1,130.0,130.0,Debit Card,Mira Flores,False
+TXN-00243,2024-10-27,08:30,BGC,Carlos Gonzales,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Alvin Santos,True
+TXN-00244,2024-05-02,11:00,Cubao,Tanya Ramos,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Rina Ocampo,False
+TXN-00245,2024-08-04,09:45,Quezon City,Miguel Lopez,Banana Bread,Pastry,2,80.0,160.0,Credit Card,Diana Reyes,True
+TXN-00246,2024-04-05,12:45,Quezon City,Maria Mendoza,Chocolate Croissant,Pastry,3,95.0,285.0,GCash,Mira Flores,False
+TXN-00247,2024-07-28,17:45,Makati,Ana Villanueva,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Diana Reyes,True
+TXN-00248,2024-05-20,10:30,BGC,Ramon Lopez,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Mark Tan,False
+TXN-00249,2024-10-05,20:30,Mandaluyong,Patricia Lopez,Chocolate Croissant,Pastry,3,95.0,285.0,Credit Card,Mark Tan,True
+TXN-00250,2024-06-01,20:00,BGC,Ana Mendoza,Matcha Latte,Cold Drinks,1,160.0,160.0,GCash,Paolo Cruz,False
+TXN-00251,2024-12-29,16:45,Mandaluyong,Sofia De Leon,Hot Chocolate,Hot Drinks,1,130.0,130.0,Cash,Alvin Santos,False
+TXN-00252,2024-11-01,15:15,BGC,Isabella De Leon,Matcha Latte,Cold Drinks,1,160.0,160.0,GCash,Mira Flores,True
+TXN-00253,2024-05-21,20:15,Mandaluyong,Andrea De Leon,Blueberry Muffin,Pastry,1,85.0,85.0,Credit Card,Ryan Go,True
+TXN-00254,2024-10-22,17:30,BGC,Ana Bautista,Cinnamon Roll,Pastry,1,100.0,100.0,Credit Card,Diana Reyes,False
+TXN-00255,2024-08-20,14:30,Ortigas,Ana Aquino,Chocolate Croissant,Pastry,3,95.0,285.0,Maya,Mark Tan,False
+TXN-00256,2024-04-21,13:15,Quezon City,Carlos Flores,Matcha Latte,Cold Drinks,1,160.0,160.0,Debit Card,Ryan Go,False
+TXN-00257,2024-12-15,19:00,BGC,Patricia Santos,Brewed Coffee,Hot Drinks,2,95.0,190.0,GCash,Ryan Go,False
+TXN-00258,2024-01-01,13:15,Pasig,Carlos Cruz,Blueberry Muffin,Pastry,3,85.0,255.0,Cash,Alvin Santos,False
+TXN-00259,2024-02-12,12:15,BGC,Luis Ramos,Americano,Hot Drinks,2,120.0,240.0,Cash,Jessa Lim,True
+TXN-00260,2024-09-01,08:15,Makati,Patricia Santos,Blueberry Muffin,Pastry,2,85.0,170.0,Maya,Mark Tan,False
+TXN-00261,2024-12-21,09:45,Alabang,Juan Reyes,Caramel Latte,Hot Drinks,1,155.0,155.0,Maya,Diana Reyes,True
+TXN-00262,2024-07-14,19:15,Quezon City,Clara Santos,Blueberry Muffin,Pastry,1,85.0,85.0,Credit Card,Alvin Santos,True
+TXN-00263,2024-11-17,18:15,BGC,Sofia Reyes,Cold Brew,Cold Drinks,2,150.0,300.0,GCash,Mark Tan,False
+TXN-00264,2024-06-28,13:30,Pasig,Ana Garcia,Caramel Latte,Hot Drinks,1,155.0,155.0,Cash,Diana Reyes,True
+TXN-00265,2024-09-22,16:15,Mandaluyong,Jose Castillo,Cinnamon Roll,Pastry,1,100.0,100.0,Credit Card,Mira Flores,True
+TXN-00266,2024-05-03,14:00,Cubao,Andrea Cruz,Chocolate Croissant,Pastry,5,95.0,475.0,Debit Card,Mira Flores,False
+TXN-00267,2024-10-06,17:15,Pasig,Ana Santos,Iced Americano,Cold Drinks,1,130.0,130.0,GCash,Jessa Lim,True
+TXN-00268,2024-07-22,15:30,Cubao,Nico Aquino,Banana Bread,Pastry,3,80.0,240.0,Cash,Rina Ocampo,False
+TXN-00269,2024-02-12,11:00,Alabang,Carla Lopez,Blueberry Muffin,Pastry,5,85.0,425.0,Credit Card,Mark Tan,False
+TXN-00270,2024-12-23,13:15,Ortigas,Nico Reyes,Caramel Latte,Hot Drinks,1,155.0,155.0,Debit Card,Jessa Lim,False
+TXN-00271,2024-12-07,18:15,Ortigas,Maria Cruz,Brewed Coffee,Hot Drinks,2,95.0,190.0,Maya,Diana Reyes,True
+TXN-00272,2024-07-09,09:30,Cubao,Maria Flores,Chocolate Croissant,Pastry,3,95.0,285.0,Maya,Mark Tan,False
+TXN-00273,2024-12-30,16:00,Quezon City,Jose Mendoza,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Maya,Rina Ocampo,False
+TXN-00274,2024-02-22,16:00,Makati,Maria Garcia,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Alvin Santos,False
+TXN-00275,2024-03-17,09:00,Alabang,Luis Ramos,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Mark Tan,False
+TXN-00276,2024-03-02,15:00,BGC,Jose Ramos,Caramel Latte,Hot Drinks,3,155.0,465.0,Credit Card,Diana Reyes,False
+TXN-00277,2024-06-16,08:45,Pasig,Clara Castillo,Cappuccino,Hot Drinks,1,145.0,145.0,Debit Card,Paolo Cruz,False
+TXN-00278,2024-07-07,16:45,Makati,Luis Cruz,Hot Chocolate,Hot Drinks,3,130.0,390.0,Credit Card,Jessa Lim,True
+TXN-00279,2024-10-04,12:00,Pasig,Lea De Leon,Iced Americano,Cold Drinks,3,130.0,390.0,Cash,Paolo Cruz,True
+TXN-00280,2024-08-02,14:00,Cubao,Luis Gonzales,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Ryan Go,True
+TXN-00281,2024-10-24,08:15,Cubao,Clara Santos,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Paolo Cruz,False
+TXN-00282,2024-05-13,20:30,BGC,Isabella Garcia,Matcha Latte,Cold Drinks,1,160.0,160.0,GCash,Rina Ocampo,True
+TXN-00283,2024-03-20,08:15,Alabang,Juan Lopez,Strawberry Frappe,Cold Drinks,1,175.0,175.0,GCash,Ryan Go,False
+TXN-00284,2024-08-25,11:00,Makati,Carlos De Leon,Caramel Latte,Hot Drinks,3,155.0,465.0,GCash,Alvin Santos,True
+TXN-00285,2024-02-16,18:15,Quezon City,Carlos Torres,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Cash,Mira Flores,False
+TXN-00286,2024-10-11,18:15,Makati,Carla Reyes,Americano,Hot Drinks,1,120.0,120.0,Cash,Paolo Cruz,True
+TXN-00287,2024-04-11,20:45,BGC,Isabella Gonzales,Iced Americano,Cold Drinks,2,130.0,260.0,Cash,Mark Tan,True
+TXN-00288,2024-11-26,14:15,Quezon City,Patricia Santos,Cappuccino,Hot Drinks,1,145.0,145.0,Debit Card,Mira Flores,False
+TXN-00289,2024-09-11,07:45,Quezon City,Sofia Gonzales,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Diana Reyes,False
+TXN-00290,2024-03-17,07:15,Makati,Felix Mendoza,Cheese Danish,Pastry,2,90.0,180.0,Cash,Diana Reyes,False
+TXN-00291,2024-03-11,13:15,Makati,Felix Castillo,Banana Bread,Pastry,1,80.0,80.0,Credit Card,Alvin Santos,False
+TXN-00292,2024-10-05,19:45,Quezon City,Lea Torres,Cold Brew,Cold Drinks,2,150.0,300.0,Cash,Alvin Santos,True
+TXN-00293,2024-01-16,19:30,Quezon City,Clara Garcia,Americano,Hot Drinks,2,120.0,240.0,Cash,Paolo Cruz,True
+TXN-00294,2024-05-16,15:00,Quezon City,Lea Flores,Hot Chocolate,Hot Drinks,3,130.0,390.0,GCash,Paolo Cruz,False
+TXN-00295,2024-12-23,12:00,Mandaluyong,Clara Cruz,Cheese Danish,Pastry,4,90.0,360.0,Credit Card,Diana Reyes,True
+TXN-00296,2024-09-08,07:00,Ortigas,Maria Lopez,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Alvin Santos,True
+TXN-00297,2024-03-07,12:15,Quezon City,Clara Aquino,Iced Americano,Cold Drinks,1,130.0,130.0,Cash,Alvin Santos,True
+TXN-00298,2024-07-10,18:45,Quezon City,Andrea Cruz,Chocolate Croissant,Pastry,1,95.0,95.0,Credit Card,Ryan Go,False
+TXN-00299,2024-03-30,18:30,Pasig,Lea Torres,Hot Chocolate,Hot Drinks,3,130.0,390.0,GCash,Rina Ocampo,True
+TXN-00300,2024-12-25,16:45,Mandaluyong,Andrea Gonzales,Chocolate Croissant,Pastry,1,95.0,95.0,Debit Card,Mark Tan,False
+TXN-00301,2024-03-13,12:00,BGC,Miguel Bautista,Cappuccino,Hot Drinks,5,145.0,725.0,Maya,Ryan Go,True
+TXN-00302,2024-05-15,10:15,Makati,Juan Aquino,Chocolate Croissant,Pastry,1,95.0,95.0,Cash,Mira Flores,False
+TXN-00303,2024-08-02,09:45,Ortigas,Lea Reyes,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Debit Card,Paolo Cruz,True
+TXN-00304,2024-08-19,08:00,Alabang,Juan Reyes,Iced Americano,Cold Drinks,1,130.0,130.0,GCash,Mira Flores,True
+TXN-00305,2024-02-08,15:00,Makati,Ramon Aquino,Cold Brew,Cold Drinks,5,150.0,750.0,Credit Card,Rina Ocampo,False
+TXN-00306,2024-03-21,07:00,Pasig,Nico Aquino,Iced Caramel Latte,Cold Drinks,5,165.0,825.0,Maya,Diana Reyes,True
+TXN-00307,2024-02-19,07:45,Alabang,Carla Santos,Banana Bread,Pastry,3,80.0,240.0,Cash,Mira Flores,True
+TXN-00308,2024-05-30,20:45,Pasig,Miguel Bautista,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Ryan Go,True
+TXN-00309,2024-06-06,19:45,Cubao,Isabella Reyes,Strawberry Frappe,Cold Drinks,3,175.0,525.0,GCash,Alvin Santos,False
+TXN-00310,2024-07-08,09:45,Pasig,Isabella Garcia,Cappuccino,Hot Drinks,1,145.0,145.0,Debit Card,Jessa Lim,True
+TXN-00311,2024-12-22,17:00,Mandaluyong,Nico Castillo,Cappuccino,Hot Drinks,3,145.0,435.0,Debit Card,Jessa Lim,False
+TXN-00312,2024-09-24,13:45,Makati,Ana Ramos,Blueberry Muffin,Pastry,2,85.0,170.0,Debit Card,Rina Ocampo,True
+TXN-00313,2024-08-17,09:15,Cubao,Nico Reyes,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Rina Ocampo,False
+TXN-00314,2024-06-12,18:00,Pasig,Felix Flores,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Ryan Go,True
+TXN-00315,2024-12-24,16:45,BGC,Clara Villanueva,Americano,Hot Drinks,1,120.0,120.0,Cash,Mark Tan,False
+TXN-00316,2024-10-01,12:45,Ortigas,Clara Villanueva,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Cash,Rina Ocampo,False
+TXN-00317,2024-07-25,09:45,Mandaluyong,Andrea Aquino,Americano,Hot Drinks,3,120.0,360.0,Cash,Ryan Go,False
+TXN-00318,2024-07-09,07:30,BGC,Ramon De Leon,Matcha Latte,Cold Drinks,1,160.0,160.0,GCash,Rina Ocampo,False
+TXN-00319,2024-08-14,19:30,Ortigas,Ana Garcia,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Mira Flores,False
+TXN-00320,2024-09-21,20:30,Cubao,Ana Torres,Hot Chocolate,Hot Drinks,3,130.0,390.0,GCash,Jessa Lim,True
+TXN-00321,2024-04-08,20:15,Alabang,Jose Gonzales,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Diana Reyes,False
+TXN-00322,2024-08-25,15:45,Ortigas,Luis Flores,Chocolate Croissant,Pastry,2,95.0,190.0,Debit Card,Ryan Go,True
+TXN-00323,2024-08-30,16:30,BGC,Isabella Aquino,Iced Caramel Latte,Cold Drinks,3,165.0,495.0,Maya,Jessa Lim,False
+TXN-00324,2024-01-26,09:15,Cubao,Isabella Bautista,Caramel Latte,Hot Drinks,2,155.0,310.0,Debit Card,Jessa Lim,True
+TXN-00325,2024-08-30,09:15,Pasig,Renz Castillo,Chocolate Croissant,Pastry,1,95.0,95.0,Maya,Mira Flores,False
+TXN-00326,2024-06-27,14:30,Cubao,Tanya De Leon,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Mark Tan,True
+TXN-00327,2024-09-18,17:30,BGC,Carlos Bautista,Banana Bread,Pastry,2,80.0,160.0,Credit Card,Mark Tan,False
+TXN-00328,2024-05-21,17:30,Quezon City,Carlos Garcia,Matcha Latte,Cold Drinks,2,160.0,320.0,Debit Card,Paolo Cruz,True
+TXN-00329,2024-11-03,13:30,Pasig,Ramon Torres,Blueberry Muffin,Pastry,2,85.0,170.0,Credit Card,Mira Flores,False
+TXN-00330,2024-01-19,16:15,Alabang,Ramon Gonzales,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Debit Card,Diana Reyes,True
+TXN-00331,2024-12-02,15:15,Quezon City,Isabella Aquino,Iced Americano,Cold Drinks,2,130.0,260.0,Maya,Mark Tan,True
+TXN-00332,2024-06-30,10:30,Ortigas,Clara Torres,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Ryan Go,True
+TXN-00333,2024-11-20,16:00,Pasig,Lea Lopez,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Credit Card,Jessa Lim,True
+TXN-00334,2024-03-11,10:30,Alabang,Patricia Cruz,Cold Brew,Cold Drinks,3,150.0,450.0,GCash,Mark Tan,False
+TXN-00335,2024-06-19,17:15,Quezon City,Isabella Garcia,Iced Americano,Cold Drinks,1,130.0,130.0,Debit Card,Rina Ocampo,False
+TXN-00336,2024-02-15,09:45,Makati,Ramon Ramos,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Paolo Cruz,False
+TXN-00337,2024-01-08,12:15,Alabang,Luis Garcia,Brewed Coffee,Hot Drinks,2,95.0,190.0,Maya,Rina Ocampo,True
+TXN-00338,2024-07-15,15:30,Ortigas,Carlos Torres,Brewed Coffee,Hot Drinks,3,95.0,285.0,Debit Card,Alvin Santos,False
+TXN-00339,2024-12-17,09:30,Cubao,Miguel Gonzales,Matcha Latte,Cold Drinks,3,160.0,480.0,Cash,Paolo Cruz,True
+TXN-00340,2024-03-08,10:00,Makati,Marco Aquino,Banana Bread,Pastry,1,80.0,80.0,Credit Card,Diana Reyes,True
+TXN-00341,2024-10-31,07:00,Ortigas,Juan Ramos,Chocolate Croissant,Pastry,1,95.0,95.0,Credit Card,Mark Tan,False
+TXN-00342,2024-08-30,18:15,Pasig,Juan Bautista,Brewed Coffee,Hot Drinks,1,95.0,95.0,Debit Card,Rina Ocampo,False
+TXN-00343,2024-02-23,15:00,Mandaluyong,Ramon Garcia,Iced Americano,Cold Drinks,3,130.0,390.0,Maya,Paolo Cruz,False
+TXN-00344,2024-12-26,13:30,Ortigas,Sofia Aquino,Brewed Coffee,Hot Drinks,2,95.0,190.0,Maya,Paolo Cruz,True
+TXN-00345,2024-01-07,17:00,BGC,Carla Reyes,Hot Chocolate,Hot Drinks,2,130.0,260.0,Cash,Diana Reyes,True
+TXN-00346,2024-08-21,11:30,Makati,Miguel De Leon,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Alvin Santos,False
+TXN-00347,2024-08-06,18:00,Quezon City,Carla Bautista,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Alvin Santos,False
+TXN-00348,2024-11-14,11:00,Ortigas,Lea Ramos,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Mira Flores,False
+TXN-00349,2024-08-03,17:15,Quezon City,Jose De Leon,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Mira Flores,False
+TXN-00350,2024-10-18,17:45,Makati,Marco Villanueva,Hot Chocolate,Hot Drinks,1,130.0,130.0,GCash,Ryan Go,False
+TXN-00351,2024-02-27,13:45,Mandaluyong,Andrea Santos,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Mark Tan,False
+TXN-00352,2024-12-04,18:15,Makati,Lea Cruz,Matcha Latte,Cold Drinks,2,160.0,320.0,Cash,Rina Ocampo,False
+TXN-00353,2024-09-10,20:15,Makati,Andrea Torres,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Paolo Cruz,False
+TXN-00354,2024-07-25,20:15,BGC,Clara Mendoza,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Ryan Go,False
+TXN-00355,2024-03-01,14:00,Makati,Felix Lopez,Americano,Hot Drinks,1,120.0,120.0,Cash,Diana Reyes,True
+TXN-00356,2024-12-01,17:45,Ortigas,Luis De Leon,Matcha Latte,Cold Drinks,3,160.0,480.0,Maya,Ryan Go,False
+TXN-00357,2024-08-19,08:00,Pasig,Marco De Leon,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Alvin Santos,True
+TXN-00358,2024-01-24,09:45,Mandaluyong,Renz Garcia,Americano,Hot Drinks,1,120.0,120.0,Cash,Mira Flores,True
+TXN-00359,2024-08-22,20:15,BGC,Nico Santos,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Ryan Go,True
+TXN-00360,2024-09-12,07:00,Quezon City,Ramon Gonzales,Cinnamon Roll,Pastry,3,100.0,300.0,Debit Card,Rina Ocampo,True
+TXN-00361,2024-02-23,13:30,Mandaluyong,Renz Gonzales,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Mira Flores,False
+TXN-00362,2024-05-30,14:15,Alabang,Tanya Torres,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Paolo Cruz,True
+TXN-00363,2024-04-17,16:30,Quezon City,Carla Aquino,Cheese Danish,Pastry,4,90.0,360.0,Debit Card,Alvin Santos,True
+TXN-00364,2024-06-29,15:45,Pasig,Nico Bautista,Banana Bread,Pastry,4,80.0,320.0,Credit Card,Jessa Lim,True
+TXN-00365,2024-01-13,13:15,Pasig,Miguel Torres,Brewed Coffee,Hot Drinks,1,95.0,95.0,GCash,Jessa Lim,False
+TXN-00366,2024-04-14,19:00,Mandaluyong,Felix De Leon,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Debit Card,Mira Flores,True
+TXN-00367,2024-09-18,19:30,Alabang,Lea Ramos,Chocolate Croissant,Pastry,4,95.0,380.0,Debit Card,Jessa Lim,True
+TXN-00368,2024-05-08,10:45,Mandaluyong,Felix Aquino,Cappuccino,Hot Drinks,3,145.0,435.0,GCash,Diana Reyes,False
+TXN-00369,2024-03-31,17:00,Makati,Juan Ramos,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Diana Reyes,False
+TXN-00370,2024-03-07,09:30,Quezon City,Carla Santos,Cappuccino,Hot Drinks,2,145.0,290.0,Maya,Jessa Lim,False
+TXN-00371,2024-09-08,19:30,BGC,Miguel Lopez,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Rina Ocampo,False
+TXN-00372,2024-10-05,15:45,Alabang,Sofia Bautista,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Alvin Santos,False
+TXN-00373,2024-04-21,19:45,Mandaluyong,Marco Mendoza,Chocolate Croissant,Pastry,1,95.0,95.0,Debit Card,Paolo Cruz,True
+TXN-00374,2024-12-15,12:45,Alabang,Carlos Santos,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Ryan Go,False
+TXN-00375,2024-01-23,11:15,Makati,Juan Cruz,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Paolo Cruz,True
+TXN-00376,2024-12-16,13:00,BGC,Nico Bautista,Hot Chocolate,Hot Drinks,3,130.0,390.0,GCash,Jessa Lim,False
+TXN-00377,2024-06-18,07:00,BGC,Isabella Lopez,Brewed Coffee,Hot Drinks,1,95.0,95.0,Debit Card,Paolo Cruz,False
+TXN-00378,2024-07-27,13:45,BGC,Maria Ramos,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Jessa Lim,True
+TXN-00379,2024-10-26,07:00,BGC,Carlos Villanueva,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Ryan Go,False
+TXN-00380,2024-07-21,20:00,Cubao,Carla Aquino,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Debit Card,Diana Reyes,True
+TXN-00381,2024-06-01,17:30,Makati,Carla Reyes,Hot Chocolate,Hot Drinks,3,130.0,390.0,Cash,Mira Flores,True
+TXN-00382,2024-06-05,10:30,Quezon City,Tanya Cruz,Americano,Hot Drinks,4,120.0,480.0,GCash,Paolo Cruz,False
+TXN-00383,2024-04-09,08:15,BGC,Felix Mendoza,Banana Bread,Pastry,3,80.0,240.0,Maya,Mark Tan,False
+TXN-00384,2024-02-20,10:45,Pasig,Luis Reyes,Matcha Latte,Cold Drinks,1,160.0,160.0,Debit Card,Mark Tan,True
+TXN-00385,2024-06-11,14:45,Alabang,Clara Cruz,Cold Brew,Cold Drinks,2,150.0,300.0,Maya,Mira Flores,True
+TXN-00386,2024-01-03,12:15,Alabang,Marco Cruz,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Ryan Go,False
+TXN-00387,2024-07-02,19:30,Pasig,Renz Reyes,Cold Brew,Cold Drinks,1,150.0,150.0,GCash,Paolo Cruz,False
+TXN-00388,2024-11-16,08:00,Cubao,Clara Villanueva,Hot Chocolate,Hot Drinks,2,130.0,260.0,Debit Card,Paolo Cruz,True
+TXN-00389,2024-10-09,11:45,Pasig,Luis Gonzales,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Ryan Go,True
+TXN-00390,2024-07-22,12:00,Quezon City,Renz Bautista,Blueberry Muffin,Pastry,3,85.0,255.0,Debit Card,Rina Ocampo,False
+TXN-00391,2024-03-22,09:15,Ortigas,Jose Garcia,Cinnamon Roll,Pastry,4,100.0,400.0,GCash,Mark Tan,False
+TXN-00392,2024-07-08,10:00,Ortigas,Marco Ramos,Blueberry Muffin,Pastry,2,85.0,170.0,Credit Card,Jessa Lim,True
+TXN-00393,2024-11-28,12:00,Pasig,Isabella De Leon,Banana Bread,Pastry,2,80.0,160.0,Debit Card,Rina Ocampo,False
+TXN-00394,2024-11-30,13:30,Mandaluyong,Lea Gonzales,Chocolate Croissant,Pastry,2,95.0,190.0,Debit Card,Mira Flores,False
+TXN-00395,2024-06-25,14:45,Quezon City,Carla Mendoza,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Mark Tan,False
+TXN-00396,2024-04-18,09:15,Mandaluyong,Juan Bautista,Cappuccino,Hot Drinks,2,145.0,290.0,Credit Card,Alvin Santos,True
+TXN-00397,2024-09-03,17:45,Mandaluyong,Nico Santos,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Cash,Rina Ocampo,True
+TXN-00398,2024-03-09,17:00,Quezon City,Isabella Gonzales,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Mira Flores,True
+TXN-00399,2024-12-04,20:30,Ortigas,Ramon De Leon,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Paolo Cruz,False
+TXN-00400,2024-11-03,09:15,Ortigas,Andrea Gonzales,Banana Bread,Pastry,1,80.0,80.0,Debit Card,Mark Tan,True
+TXN-00401,2024-07-12,13:15,Cubao,Tanya Bautista,Brewed Coffee,Hot Drinks,1,95.0,95.0,GCash,Mark Tan,True
+TXN-00402,2024-08-31,16:00,Quezon City,Ana Mendoza,Banana Bread,Pastry,3,80.0,240.0,Debit Card,Jessa Lim,False
+TXN-00403,2024-09-24,13:30,Cubao,Ramon Castillo,Hot Chocolate,Hot Drinks,1,130.0,130.0,Maya,Mark Tan,False
+TXN-00404,2024-03-09,11:45,Pasig,Felix Ramos,Brewed Coffee,Hot Drinks,1,95.0,95.0,GCash,Jessa Lim,True
+TXN-00405,2024-10-22,15:00,Alabang,Sofia Aquino,Chocolate Croissant,Pastry,1,95.0,95.0,Credit Card,Alvin Santos,True
+TXN-00406,2024-03-20,13:30,Pasig,Marco Villanueva,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Paolo Cruz,False
+TXN-00407,2024-10-09,19:45,Pasig,Ramon Torres,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Alvin Santos,False
+TXN-00408,2024-03-11,20:00,Mandaluyong,Miguel Reyes,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Mira Flores,False
+TXN-00409,2024-10-08,16:00,BGC,Maria Castillo,Americano,Hot Drinks,4,120.0,480.0,GCash,Ryan Go,False
+TXN-00410,2024-02-15,08:30,Cubao,Jose Aquino,Cappuccino,Hot Drinks,1,145.0,145.0,Credit Card,Diana Reyes,True
+TXN-00411,2024-03-30,17:45,Mandaluyong,Tanya Torres,Iced Americano,Cold Drinks,1,130.0,130.0,Cash,Paolo Cruz,True
+TXN-00412,2024-12-11,07:30,Cubao,Ana Torres,Brewed Coffee,Hot Drinks,5,95.0,475.0,Maya,Mira Flores,False
+TXN-00413,2024-10-27,10:00,Alabang,Felix Torres,Chocolate Croissant,Pastry,4,95.0,380.0,Maya,Diana Reyes,True
+TXN-00414,2024-11-06,10:45,BGC,Miguel Ramos,Cold Brew,Cold Drinks,1,150.0,150.0,Debit Card,Mark Tan,False
+TXN-00415,2024-06-23,08:30,Ortigas,Patricia Ramos,Banana Bread,Pastry,1,80.0,80.0,GCash,Alvin Santos,False
+TXN-00416,2024-12-14,14:00,Mandaluyong,Lea Bautista,Iced Americano,Cold Drinks,1,130.0,130.0,GCash,Alvin Santos,False
+TXN-00417,2024-06-29,15:00,Alabang,Ana Ramos,Cheese Danish,Pastry,1,90.0,90.0,Cash,Rina Ocampo,False
+TXN-00418,2024-06-09,12:15,Mandaluyong,Sofia Mendoza,Cheese Danish,Pastry,1,90.0,90.0,GCash,Paolo Cruz,False
+TXN-00419,2024-04-15,10:15,BGC,Juan Reyes,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Jessa Lim,True
+TXN-00420,2024-09-03,12:30,Pasig,Ramon Cruz,Cold Brew,Cold Drinks,3,150.0,450.0,Credit Card,Paolo Cruz,True
+TXN-00421,2024-01-28,15:45,Quezon City,Marco Ramos,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Mark Tan,False
+TXN-00422,2024-06-10,18:00,Alabang,Juan Flores,Caramel Latte,Hot Drinks,1,155.0,155.0,Debit Card,Diana Reyes,True
+TXN-00423,2024-10-07,11:15,Quezon City,Andrea Flores,Strawberry Frappe,Cold Drinks,4,175.0,700.0,Credit Card,Mira Flores,True
+TXN-00424,2024-08-02,18:30,Quezon City,Miguel Villanueva,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Debit Card,Paolo Cruz,True
+TXN-00425,2024-05-18,19:15,Quezon City,Sofia Cruz,Cinnamon Roll,Pastry,3,100.0,300.0,Credit Card,Jessa Lim,True
+TXN-00426,2024-08-03,14:15,Ortigas,Andrea Castillo,Banana Bread,Pastry,2,80.0,160.0,Maya,Diana Reyes,True
+TXN-00427,2024-07-22,08:15,BGC,Ramon De Leon,Caramel Latte,Hot Drinks,3,155.0,465.0,Credit Card,Alvin Santos,False
+TXN-00428,2024-07-03,12:30,Mandaluyong,Marco De Leon,Iced Americano,Cold Drinks,1,130.0,130.0,Debit Card,Rina Ocampo,False
+TXN-00429,2024-06-30,12:45,Pasig,Lea Villanueva,Cinnamon Roll,Pastry,3,100.0,300.0,Credit Card,Rina Ocampo,True
+TXN-00430,2024-11-23,19:30,Quezon City,Ana Reyes,Cold Brew,Cold Drinks,2,150.0,300.0,Maya,Paolo Cruz,False
+TXN-00431,2024-06-11,17:30,Ortigas,Lea Torres,Cheese Danish,Pastry,2,90.0,180.0,Maya,Ryan Go,False
+TXN-00432,2024-03-26,09:00,Quezon City,Ana Garcia,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Mark Tan,True
+TXN-00433,2024-02-02,14:00,Pasig,Ana Reyes,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Rina Ocampo,True
+TXN-00434,2024-12-01,13:30,Quezon City,Patricia Bautista,Caramel Latte,Hot Drinks,2,155.0,310.0,GCash,Rina Ocampo,True
+TXN-00435,2024-01-18,17:30,Pasig,Felix Gonzales,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Debit Card,Ryan Go,True
+TXN-00436,2024-12-23,15:15,Pasig,Clara Ramos,Banana Bread,Pastry,2,80.0,160.0,Maya,Ryan Go,True
+TXN-00437,2024-02-15,14:30,Makati,Carlos Santos,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Debit Card,Rina Ocampo,False
+TXN-00438,2024-05-26,14:00,Makati,Ramon Torres,Cinnamon Roll,Pastry,4,100.0,400.0,Credit Card,Diana Reyes,True
+TXN-00439,2024-01-04,15:30,Mandaluyong,Nico Ramos,Americano,Hot Drinks,3,120.0,360.0,GCash,Mira Flores,False
+TXN-00440,2024-04-22,11:00,Pasig,Renz Castillo,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Maya,Diana Reyes,False
+TXN-00441,2024-04-06,20:00,Ortigas,Patricia Villanueva,Caramel Latte,Hot Drinks,1,155.0,155.0,Maya,Ryan Go,True
+TXN-00442,2024-06-13,07:15,Pasig,Juan Torres,Hot Chocolate,Hot Drinks,1,130.0,130.0,GCash,Ryan Go,True
+TXN-00443,2024-04-29,08:15,Ortigas,Nico Torres,Americano,Hot Drinks,1,120.0,120.0,Maya,Ryan Go,True
+TXN-00444,2024-06-18,08:15,Ortigas,Ana Lopez,Cappuccino,Hot Drinks,3,145.0,435.0,GCash,Paolo Cruz,False
+TXN-00445,2024-07-14,20:00,Makati,Patricia Garcia,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Ryan Go,True
+TXN-00446,2024-09-23,17:15,Alabang,Carlos Gonzales,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Jessa Lim,True
+TXN-00447,2024-05-09,14:30,Mandaluyong,Sofia Reyes,Cappuccino,Hot Drinks,3,145.0,435.0,Credit Card,Alvin Santos,True
+TXN-00448,2024-03-26,19:30,Makati,Luis Santos,Chocolate Croissant,Pastry,1,95.0,95.0,Debit Card,Ryan Go,True
+TXN-00449,2024-07-09,19:00,Makati,Renz Flores,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Alvin Santos,True
+TXN-00450,2024-12-25,15:00,Alabang,Felix Castillo,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Paolo Cruz,True
+TXN-00451,2024-12-18,13:30,Ortigas,Jose Mendoza,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Diana Reyes,False
+TXN-00452,2024-04-07,16:15,Quezon City,Patricia Torres,Cheese Danish,Pastry,1,90.0,90.0,Cash,Rina Ocampo,False
+TXN-00453,2024-05-31,20:30,Quezon City,Tanya Ramos,Cheese Danish,Pastry,2,90.0,180.0,Cash,Alvin Santos,True
+TXN-00454,2024-06-13,18:00,Ortigas,Sofia Lopez,Banana Bread,Pastry,3,80.0,240.0,Debit Card,Rina Ocampo,False
+TXN-00455,2024-06-14,13:30,Quezon City,Ana Santos,Brewed Coffee,Hot Drinks,2,95.0,190.0,GCash,Jessa Lim,True
+TXN-00456,2024-02-24,14:15,Ortigas,Lea Bautista,Brewed Coffee,Hot Drinks,2,95.0,190.0,Debit Card,Diana Reyes,True
+TXN-00457,2024-07-06,10:00,Makati,Ana Mendoza,Caramel Latte,Hot Drinks,2,155.0,310.0,Maya,Mira Flores,False
+TXN-00458,2024-12-28,07:30,Mandaluyong,Carlos Reyes,Chocolate Croissant,Pastry,2,95.0,190.0,Debit Card,Mark Tan,True
+TXN-00459,2024-04-28,15:45,Quezon City,Luis Villanueva,Caramel Latte,Hot Drinks,2,155.0,310.0,Debit Card,Mira Flores,True
+TXN-00460,2024-11-22,16:30,BGC,Nico Gonzales,Cinnamon Roll,Pastry,2,100.0,200.0,GCash,Rina Ocampo,False
+TXN-00461,2024-09-15,12:15,Alabang,Marco Gonzales,Banana Bread,Pastry,1,80.0,80.0,Debit Card,Alvin Santos,False
+TXN-00462,2024-07-30,19:45,Mandaluyong,Clara Lopez,Cheese Danish,Pastry,2,90.0,180.0,Credit Card,Diana Reyes,False
+TXN-00463,2024-08-19,14:45,Quezon City,Renz Santos,Brewed Coffee,Hot Drinks,5,95.0,475.0,Maya,Jessa Lim,False
+TXN-00464,2024-04-23,10:30,Quezon City,Tanya Lopez,Cappuccino,Hot Drinks,4,145.0,580.0,Cash,Jessa Lim,False
+TXN-00465,2024-07-01,09:15,Pasig,Luis Garcia,Matcha Latte,Cold Drinks,3,160.0,480.0,Maya,Mark Tan,False
+TXN-00466,2024-10-18,10:00,BGC,Miguel Mendoza,Cheese Danish,Pastry,3,90.0,270.0,Debit Card,Diana Reyes,True
+TXN-00467,2024-10-22,13:00,BGC,Nico Ramos,Cappuccino,Hot Drinks,1,145.0,145.0,GCash,Jessa Lim,False
+TXN-00468,2024-01-28,11:00,Mandaluyong,Andrea Lopez,Cold Brew,Cold Drinks,2,150.0,300.0,GCash,Jessa Lim,False
+TXN-00469,2024-08-16,19:00,Quezon City,Lea Cruz,Americano,Hot Drinks,1,120.0,120.0,Maya,Mark Tan,False
+TXN-00470,2024-10-19,18:00,Cubao,Lea Lopez,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Rina Ocampo,False
+TXN-00471,2024-10-13,10:45,Mandaluyong,Renz Aquino,Cold Brew,Cold Drinks,1,150.0,150.0,GCash,Mark Tan,False
+TXN-00472,2024-08-08,12:00,Alabang,Marco Garcia,Americano,Hot Drinks,1,120.0,120.0,Maya,Jessa Lim,False
+TXN-00473,2024-03-27,12:45,Alabang,Luis Garcia,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Mark Tan,True
+TXN-00474,2024-01-28,10:15,Ortigas,Juan Torres,Iced Americano,Cold Drinks,1,130.0,130.0,Credit Card,Jessa Lim,False
+TXN-00475,2024-04-17,18:15,Ortigas,Isabella Lopez,Hot Chocolate,Hot Drinks,2,130.0,260.0,Debit Card,Rina Ocampo,True
+TXN-00476,2024-07-11,16:00,Pasig,Sofia Castillo,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Cash,Ryan Go,True
+TXN-00477,2024-02-04,13:30,Cubao,Maria Torres,Cheese Danish,Pastry,3,90.0,270.0,GCash,Mira Flores,True
+TXN-00478,2024-06-10,14:00,Makati,Patricia Lopez,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Paolo Cruz,False
+TXN-00479,2024-06-19,14:45,Pasig,Marco Flores,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Diana Reyes,True
+TXN-00480,2024-11-16,11:45,Alabang,Luis Cruz,Hot Chocolate,Hot Drinks,4,130.0,520.0,Credit Card,Rina Ocampo,True
+TXN-00481,2024-07-14,15:15,Alabang,Nico Torres,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Credit Card,Rina Ocampo,True
+TXN-00482,2024-11-30,09:15,Quezon City,Tanya Gonzales,Cappuccino,Hot Drinks,2,145.0,290.0,Credit Card,Rina Ocampo,True
+TXN-00483,2024-06-11,08:00,Makati,Carla Aquino,Cappuccino,Hot Drinks,3,145.0,435.0,Maya,Mira Flores,False
+TXN-00484,2024-06-04,14:30,Pasig,Miguel Santos,Caramel Latte,Hot Drinks,1,155.0,155.0,Debit Card,Paolo Cruz,True
+TXN-00485,2024-04-28,17:00,Ortigas,Ramon Cruz,Iced Americano,Cold Drinks,2,130.0,260.0,Maya,Rina Ocampo,False
+TXN-00486,2024-09-08,14:15,Makati,Nico Castillo,Caramel Latte,Hot Drinks,1,155.0,155.0,Maya,Mira Flores,True
+TXN-00487,2024-12-09,10:15,Ortigas,Patricia De Leon,Caramel Latte,Hot Drinks,4,155.0,620.0,Maya,Ryan Go,True
+TXN-00488,2024-08-06,13:00,Makati,Lea Villanueva,Cinnamon Roll,Pastry,2,100.0,200.0,Debit Card,Mark Tan,False
+TXN-00489,2024-08-21,20:00,Cubao,Jose Lopez,Hot Chocolate,Hot Drinks,2,130.0,260.0,Debit Card,Jessa Lim,True
+TXN-00490,2024-05-29,14:45,Makati,Nico Torres,Matcha Latte,Cold Drinks,2,160.0,320.0,Debit Card,Rina Ocampo,False
+TXN-00491,2024-11-26,14:00,Quezon City,Clara Gonzales,Banana Bread,Pastry,1,80.0,80.0,Credit Card,Mira Flores,False
+TXN-00492,2024-08-18,07:15,Ortigas,Sofia Gonzales,Cold Brew,Cold Drinks,3,150.0,450.0,Cash,Diana Reyes,False
+TXN-00493,2024-12-20,17:15,Alabang,Patricia Bautista,Chocolate Croissant,Pastry,1,95.0,95.0,Cash,Mira Flores,True
+TXN-00494,2024-07-12,15:45,Quezon City,Clara De Leon,Caramel Latte,Hot Drinks,4,155.0,620.0,GCash,Rina Ocampo,True
+TXN-00495,2024-12-30,07:45,Quezon City,Patricia Torres,Matcha Latte,Cold Drinks,2,160.0,320.0,Cash,Rina Ocampo,True
+TXN-00496,2024-01-02,16:30,Makati,Ramon Lopez,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Ryan Go,True
+TXN-00497,2024-04-21,16:45,Makati,Renz Villanueva,Strawberry Frappe,Cold Drinks,1,175.0,175.0,GCash,Diana Reyes,True
+TXN-00498,2024-01-26,09:15,Pasig,Jose Bautista,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Mark Tan,True
+TXN-00499,2024-02-25,13:15,Quezon City,Renz Villanueva,Cappuccino,Hot Drinks,2,145.0,290.0,Credit Card,Alvin Santos,True
+TXN-00500,2024-02-17,19:30,Cubao,Ana Castillo,Matcha Latte,Cold Drinks,3,160.0,480.0,Debit Card,Mark Tan,False
+TXN-00501,2024-08-29,09:00,Mandaluyong,Nico Lopez,Cheese Danish,Pastry,1,90.0,90.0,GCash,Jessa Lim,True
+TXN-00502,2024-10-19,18:00,Alabang,Carlos Ramos,Cold Brew,Cold Drinks,4,150.0,600.0,Maya,Alvin Santos,True
+TXN-00503,2024-11-10,16:45,Mandaluyong,Miguel Gonzales,Cinnamon Roll,Pastry,2,100.0,200.0,Maya,Paolo Cruz,True
+TXN-00504,2024-03-01,07:45,Cubao,Sofia Castillo,Chocolate Croissant,Pastry,2,95.0,190.0,Credit Card,Jessa Lim,False
+TXN-00505,2024-06-28,15:15,BGC,Isabella Castillo,Caramel Latte,Hot Drinks,2,155.0,310.0,Maya,Diana Reyes,False
+TXN-00506,2024-01-04,08:30,Quezon City,Renz Santos,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Alvin Santos,False
+TXN-00507,2024-12-10,14:45,Alabang,Patricia Gonzales,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Mira Flores,True
+TXN-00508,2024-09-23,11:30,Alabang,Clara Bautista,Banana Bread,Pastry,1,80.0,80.0,Maya,Mark Tan,True
+TXN-00509,2024-05-23,20:00,Cubao,Miguel Villanueva,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Mark Tan,False
+TXN-00510,2024-12-27,20:30,Mandaluyong,Ana Mendoza,Chocolate Croissant,Pastry,1,95.0,95.0,Maya,Ryan Go,False
+TXN-00511,2024-04-20,15:30,Mandaluyong,Jose Castillo,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Ryan Go,True
+TXN-00512,2024-09-04,15:15,Alabang,Tanya Torres,Cappuccino,Hot Drinks,4,145.0,580.0,GCash,Mark Tan,True
+TXN-00513,2024-04-15,18:00,Makati,Tanya Reyes,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Maya,Jessa Lim,True
+TXN-00514,2024-06-19,14:00,Pasig,Carlos Santos,Hot Chocolate,Hot Drinks,3,130.0,390.0,GCash,Alvin Santos,True
+TXN-00515,2024-04-08,11:30,Quezon City,Juan Torres,Cheese Danish,Pastry,3,90.0,270.0,GCash,Diana Reyes,True
+TXN-00516,2024-01-08,16:00,Quezon City,Andrea Torres,Hot Chocolate,Hot Drinks,1,130.0,130.0,Maya,Paolo Cruz,True
+TXN-00517,2024-02-06,11:30,Makati,Maria Mendoza,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Mira Flores,True
+TXN-00518,2024-02-14,13:45,Alabang,Patricia Villanueva,Hot Chocolate,Hot Drinks,3,130.0,390.0,Maya,Alvin Santos,True
+TXN-00519,2024-12-31,19:00,Ortigas,Patricia Reyes,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Ryan Go,False
+TXN-00520,2024-04-28,10:15,Alabang,Lea Cruz,Cheese Danish,Pastry,4,90.0,360.0,Maya,Ryan Go,False
+TXN-00521,2024-01-16,08:45,Alabang,Miguel Torres,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Rina Ocampo,True
+TXN-00522,2024-07-26,20:00,Ortigas,Carlos Lopez,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Mira Flores,True
+TXN-00523,2024-11-13,10:15,Cubao,Sofia De Leon,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Credit Card,Alvin Santos,True
+TXN-00524,2024-03-29,17:00,Ortigas,Juan Villanueva,Banana Bread,Pastry,3,80.0,240.0,Maya,Mark Tan,False
+TXN-00525,2024-03-31,11:45,Cubao,Renz Castillo,Hot Chocolate,Hot Drinks,1,130.0,130.0,Maya,Ryan Go,True
+TXN-00526,2024-02-16,10:15,Pasig,Carla Mendoza,Chocolate Croissant,Pastry,3,95.0,285.0,Credit Card,Ryan Go,True
+TXN-00527,2024-04-15,17:30,Cubao,Carlos Gonzales,Cold Brew,Cold Drinks,3,150.0,450.0,Maya,Mark Tan,True
+TXN-00528,2024-11-09,15:45,Makati,Felix Santos,Cappuccino,Hot Drinks,1,145.0,145.0,Debit Card,Alvin Santos,True
+TXN-00529,2024-05-24,20:00,Alabang,Lea Bautista,Americano,Hot Drinks,2,120.0,240.0,Credit Card,Mira Flores,False
+TXN-00530,2024-08-10,15:15,Cubao,Sofia Lopez,Blueberry Muffin,Pastry,2,85.0,170.0,Maya,Mira Flores,True
+TXN-00531,2024-05-27,20:15,Ortigas,Maria Cruz,Brewed Coffee,Hot Drinks,1,95.0,95.0,Credit Card,Rina Ocampo,True
+TXN-00532,2024-03-11,17:45,Ortigas,Renz Cruz,Cold Brew,Cold Drinks,4,150.0,600.0,Debit Card,Mira Flores,False
+TXN-00533,2024-07-15,12:15,Mandaluyong,Clara Mendoza,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Diana Reyes,False
+TXN-00534,2024-10-06,16:30,Ortigas,Marco Reyes,Brewed Coffee,Hot Drinks,2,95.0,190.0,Cash,Rina Ocampo,False
+TXN-00535,2024-08-26,15:00,BGC,Ramon Bautista,Banana Bread,Pastry,1,80.0,80.0,Debit Card,Diana Reyes,True
+TXN-00536,2024-06-24,15:00,Alabang,Ramon Villanueva,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Credit Card,Alvin Santos,False
+TXN-00537,2024-05-28,09:00,Makati,Clara Torres,Banana Bread,Pastry,2,80.0,160.0,Credit Card,Rina Ocampo,True
+TXN-00538,2024-12-02,11:00,Pasig,Tanya Reyes,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Maya,Rina Ocampo,False
+TXN-00539,2024-05-20,20:30,Quezon City,Clara Aquino,Brewed Coffee,Hot Drinks,2,95.0,190.0,Credit Card,Alvin Santos,True
+TXN-00540,2024-05-13,19:15,BGC,Jose Flores,Iced Caramel Latte,Cold Drinks,3,165.0,495.0,GCash,Rina Ocampo,False
+TXN-00541,2024-07-30,19:45,Alabang,Miguel Garcia,Americano,Hot Drinks,2,120.0,240.0,Cash,Diana Reyes,True
+TXN-00542,2024-01-27,09:45,Cubao,Felix Garcia,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Credit Card,Ryan Go,False
+TXN-00543,2024-03-15,15:45,Alabang,Patricia Ramos,Cappuccino,Hot Drinks,4,145.0,580.0,Debit Card,Jessa Lim,True
+TXN-00544,2024-09-29,17:30,Pasig,Isabella Flores,Cold Brew,Cold Drinks,4,150.0,600.0,Maya,Mark Tan,False
+TXN-00545,2024-12-01,16:45,Mandaluyong,Clara Castillo,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Debit Card,Alvin Santos,True
+TXN-00546,2024-06-09,15:00,BGC,Maria Ramos,Chocolate Croissant,Pastry,3,95.0,285.0,Debit Card,Mark Tan,False
+TXN-00547,2024-06-28,10:30,Makati,Renz Reyes,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Debit Card,Paolo Cruz,True
+TXN-00548,2024-12-28,08:00,Quezon City,Clara Castillo,Blueberry Muffin,Pastry,1,85.0,85.0,Cash,Rina Ocampo,False
+TXN-00549,2024-05-30,14:00,Cubao,Isabella Castillo,Cinnamon Roll,Pastry,4,100.0,400.0,Maya,Diana Reyes,True
+TXN-00550,2024-02-07,11:00,Pasig,Jose Torres,Strawberry Frappe,Cold Drinks,1,175.0,175.0,GCash,Ryan Go,True
+TXN-00551,2024-09-08,10:45,Cubao,Felix Castillo,Americano,Hot Drinks,1,120.0,120.0,GCash,Mark Tan,False
+TXN-00552,2024-05-12,08:00,Ortigas,Isabella Castillo,Brewed Coffee,Hot Drinks,2,95.0,190.0,Cash,Ryan Go,True
+TXN-00553,2024-11-30,17:00,Cubao,Andrea Gonzales,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Jessa Lim,False
+TXN-00554,2024-09-01,13:45,Ortigas,Maria Ramos,Chocolate Croissant,Pastry,2,95.0,190.0,Cash,Alvin Santos,False
+TXN-00555,2024-12-15,11:45,Ortigas,Andrea Reyes,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Paolo Cruz,True
+TXN-00556,2024-10-10,07:45,BGC,Lea Gonzales,Blueberry Muffin,Pastry,1,85.0,85.0,Maya,Ryan Go,True
+TXN-00557,2024-11-19,14:15,Ortigas,Clara Garcia,Brewed Coffee,Hot Drinks,1,95.0,95.0,Credit Card,Mark Tan,False
+TXN-00558,2024-09-12,15:45,Makati,Andrea Castillo,Brewed Coffee,Hot Drinks,1,95.0,95.0,Credit Card,Mark Tan,True
+TXN-00559,2024-11-30,17:45,BGC,Clara Garcia,Banana Bread,Pastry,1,80.0,80.0,Cash,Rina Ocampo,False
+TXN-00560,2024-11-30,07:45,Quezon City,Carla Santos,Chocolate Croissant,Pastry,1,95.0,95.0,Cash,Diana Reyes,True
+TXN-00561,2024-08-21,16:15,Ortigas,Juan Reyes,Chocolate Croissant,Pastry,3,95.0,285.0,Debit Card,Paolo Cruz,True
+TXN-00562,2024-04-13,13:30,Quezon City,Clara Lopez,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Paolo Cruz,True
+TXN-00563,2024-10-30,09:30,Alabang,Nico Cruz,Brewed Coffee,Hot Drinks,1,95.0,95.0,Debit Card,Rina Ocampo,False
+TXN-00564,2024-05-04,16:00,Quezon City,Renz Ramos,Brewed Coffee,Hot Drinks,3,95.0,285.0,Cash,Ryan Go,True
+TXN-00565,2024-01-04,07:15,Ortigas,Nico Aquino,Hot Chocolate,Hot Drinks,3,130.0,390.0,GCash,Paolo Cruz,True
+TXN-00566,2024-11-23,11:45,Makati,Renz Aquino,Iced Caramel Latte,Cold Drinks,4,165.0,660.0,Debit Card,Rina Ocampo,False
+TXN-00567,2024-11-09,08:30,BGC,Luis Garcia,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Debit Card,Mark Tan,False
+TXN-00568,2024-10-03,15:15,Quezon City,Sofia Reyes,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Credit Card,Ryan Go,True
+TXN-00569,2024-03-22,17:00,Alabang,Nico Torres,Cappuccino,Hot Drinks,1,145.0,145.0,Debit Card,Ryan Go,True
+TXN-00570,2024-02-23,18:00,BGC,Maria Mendoza,Blueberry Muffin,Pastry,1,85.0,85.0,Cash,Paolo Cruz,False
+TXN-00571,2024-10-30,16:30,BGC,Andrea Garcia,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Maya,Paolo Cruz,True
+TXN-00572,2024-05-01,18:45,Ortigas,Ana Mendoza,Americano,Hot Drinks,3,120.0,360.0,Cash,Mira Flores,True
+TXN-00573,2024-04-20,16:45,Mandaluyong,Patricia Aquino,Americano,Hot Drinks,1,120.0,120.0,Maya,Diana Reyes,True
+TXN-00574,2024-06-20,09:00,Ortigas,Carla Reyes,Banana Bread,Pastry,1,80.0,80.0,Credit Card,Mira Flores,True
+TXN-00575,2024-06-24,10:30,Quezon City,Renz Gonzales,Blueberry Muffin,Pastry,3,85.0,255.0,Debit Card,Paolo Cruz,True
+TXN-00576,2024-07-29,20:45,Makati,Patricia Torres,Hot Chocolate,Hot Drinks,2,130.0,260.0,Credit Card,Paolo Cruz,True
+TXN-00577,2024-06-16,13:15,Makati,Maria Ramos,Blueberry Muffin,Pastry,4,85.0,340.0,Cash,Ryan Go,True
+TXN-00578,2024-08-05,15:45,Makati,Luis Reyes,Iced Americano,Cold Drinks,2,130.0,260.0,Credit Card,Paolo Cruz,True
+TXN-00579,2024-07-02,11:15,Ortigas,Carlos Cruz,Chocolate Croissant,Pastry,1,95.0,95.0,Debit Card,Jessa Lim,False
+TXN-00580,2024-08-25,19:15,Ortigas,Marco Bautista,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Mark Tan,False
+TXN-00581,2024-12-19,12:00,Mandaluyong,Renz Lopez,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Cash,Alvin Santos,True
+TXN-00582,2024-09-20,17:30,Makati,Patricia Villanueva,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Alvin Santos,True
+TXN-00583,2024-11-27,15:00,BGC,Andrea Garcia,Blueberry Muffin,Pastry,1,85.0,85.0,Credit Card,Paolo Cruz,True
+TXN-00584,2024-06-13,12:30,Alabang,Ana Flores,Cinnamon Roll,Pastry,1,100.0,100.0,Credit Card,Ryan Go,True
+TXN-00585,2024-08-28,18:30,Ortigas,Ana Garcia,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Mark Tan,False
+TXN-00586,2024-04-01,11:00,Quezon City,Carla Mendoza,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Jessa Lim,False
+TXN-00587,2024-08-01,17:15,Mandaluyong,Maria Torres,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Jessa Lim,True
+TXN-00588,2024-09-23,17:30,Ortigas,Andrea Mendoza,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Diana Reyes,True
+TXN-00589,2024-06-05,09:30,Makati,Carlos Castillo,Americano,Hot Drinks,1,120.0,120.0,GCash,Alvin Santos,False
+TXN-00590,2024-08-21,09:15,Quezon City,Miguel De Leon,Banana Bread,Pastry,1,80.0,80.0,GCash,Paolo Cruz,True
+TXN-00591,2024-01-22,12:15,Makati,Sofia Lopez,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Alvin Santos,True
+TXN-00592,2024-07-09,14:15,Ortigas,Maria Ramos,Cheese Danish,Pastry,1,90.0,90.0,GCash,Ryan Go,False
+TXN-00593,2024-03-20,07:30,Quezon City,Carlos Castillo,Cheese Danish,Pastry,2,90.0,180.0,Debit Card,Ryan Go,False
+TXN-00594,2024-12-18,08:45,Makati,Juan Torres,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Paolo Cruz,False
+TXN-00595,2024-07-01,08:30,Mandaluyong,Clara Lopez,Hot Chocolate,Hot Drinks,2,130.0,260.0,Maya,Paolo Cruz,True
+TXN-00596,2024-02-12,15:45,Ortigas,Lea Garcia,Chocolate Croissant,Pastry,5,95.0,475.0,Maya,Jessa Lim,False
+TXN-00597,2024-07-22,09:45,Alabang,Carlos Flores,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Maya,Ryan Go,True
+TXN-00598,2024-04-20,18:45,Cubao,Carlos Cruz,Cinnamon Roll,Pastry,3,100.0,300.0,Credit Card,Rina Ocampo,True
+TXN-00599,2024-03-14,10:30,Cubao,Ana Gonzales,Cold Brew,Cold Drinks,5,150.0,750.0,Cash,Jessa Lim,False
+TXN-00600,2024-11-23,11:45,Quezon City,Clara Castillo,Hot Chocolate,Hot Drinks,2,130.0,260.0,GCash,Rina Ocampo,False
+TXN-00601,2024-05-28,15:45,Ortigas,Carlos Mendoza,Cappuccino,Hot Drinks,3,145.0,435.0,GCash,Jessa Lim,True
+TXN-00602,2024-03-19,11:30,Quezon City,Carlos Ramos,Cinnamon Roll,Pastry,1,100.0,100.0,Credit Card,Paolo Cruz,True
+TXN-00603,2024-03-02,19:30,Ortigas,Marco Villanueva,Iced Americano,Cold Drinks,2,130.0,260.0,Debit Card,Mira Flores,False
+TXN-00604,2024-11-17,17:45,Pasig,Clara Santos,Chocolate Croissant,Pastry,1,95.0,95.0,GCash,Jessa Lim,True
+TXN-00605,2024-06-12,14:15,Alabang,Marco Ramos,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Cash,Diana Reyes,False
+TXN-00606,2024-09-28,17:00,BGC,Miguel Castillo,Blueberry Muffin,Pastry,3,85.0,255.0,Debit Card,Rina Ocampo,False
+TXN-00607,2024-06-10,20:30,Quezon City,Clara Flores,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Rina Ocampo,False
+TXN-00608,2024-07-09,19:45,Mandaluyong,Miguel Reyes,Matcha Latte,Cold Drinks,4,160.0,640.0,GCash,Paolo Cruz,True
+TXN-00609,2024-10-13,16:00,Quezon City,Juan De Leon,Strawberry Frappe,Cold Drinks,4,175.0,700.0,Cash,Ryan Go,False
+TXN-00610,2024-06-08,18:30,Alabang,Renz Lopez,Americano,Hot Drinks,3,120.0,360.0,GCash,Diana Reyes,True
+TXN-00611,2024-03-01,10:15,Mandaluyong,Carlos Cruz,Blueberry Muffin,Pastry,2,85.0,170.0,GCash,Mark Tan,False
+TXN-00612,2024-12-19,19:00,Mandaluyong,Nico Santos,Brewed Coffee,Hot Drinks,3,95.0,285.0,Cash,Jessa Lim,True
+TXN-00613,2024-08-28,08:30,BGC,Maria Castillo,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Paolo Cruz,True
+TXN-00614,2024-04-04,17:30,Alabang,Isabella Villanueva,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Rina Ocampo,True
+TXN-00615,2024-09-15,16:00,Mandaluyong,Tanya Garcia,Hot Chocolate,Hot Drinks,3,130.0,390.0,Maya,Rina Ocampo,True
+TXN-00616,2024-02-20,10:45,Alabang,Juan Cruz,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Mira Flores,True
+TXN-00617,2024-09-20,10:45,Quezon City,Juan Lopez,Cappuccino,Hot Drinks,1,145.0,145.0,Credit Card,Alvin Santos,False
+TXN-00618,2024-10-12,18:00,Ortigas,Lea Torres,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Diana Reyes,False
+TXN-00619,2024-04-25,15:45,Ortigas,Ana Gonzales,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Maya,Rina Ocampo,True
+TXN-00620,2024-12-11,14:00,Quezon City,Ana Reyes,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Credit Card,Mira Flores,True
+TXN-00621,2024-03-27,08:30,Mandaluyong,Lea Reyes,Cappuccino,Hot Drinks,1,145.0,145.0,Credit Card,Ryan Go,False
+TXN-00622,2024-12-31,19:30,Ortigas,Renz Ramos,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Diana Reyes,True
+TXN-00623,2024-08-20,08:00,BGC,Carla Santos,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Cash,Mark Tan,False
+TXN-00624,2024-12-13,07:15,BGC,Carla Torres,Cold Brew,Cold Drinks,2,150.0,300.0,Cash,Ryan Go,False
+TXN-00625,2024-04-13,11:45,Makati,Andrea Castillo,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Mira Flores,True
+TXN-00626,2024-07-15,14:30,Pasig,Jose Cruz,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Ryan Go,False
+TXN-00627,2024-03-09,11:45,Ortigas,Ramon Bautista,Iced Americano,Cold Drinks,2,130.0,260.0,Credit Card,Rina Ocampo,True
+TXN-00628,2024-07-19,11:45,Pasig,Marco Castillo,Cinnamon Roll,Pastry,2,100.0,200.0,Maya,Jessa Lim,True
+TXN-00629,2024-10-29,07:15,Alabang,Clara Santos,Matcha Latte,Cold Drinks,3,160.0,480.0,Credit Card,Mark Tan,False
+TXN-00630,2024-06-25,12:45,Pasig,Luis Garcia,Iced Americano,Cold Drinks,2,130.0,260.0,Debit Card,Mark Tan,True
+TXN-00631,2024-06-05,08:30,Cubao,Jose Mendoza,Brewed Coffee,Hot Drinks,2,95.0,190.0,Debit Card,Mira Flores,False
+TXN-00632,2024-01-11,18:45,Cubao,Lea Villanueva,Chocolate Croissant,Pastry,5,95.0,475.0,Maya,Mark Tan,False
+TXN-00633,2024-02-21,18:15,Pasig,Andrea Cruz,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Maya,Mira Flores,True
+TXN-00634,2024-09-11,17:00,Cubao,Jose Torres,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Mark Tan,True
+TXN-00635,2024-10-30,12:30,Mandaluyong,Ramon Ramos,Hot Chocolate,Hot Drinks,3,130.0,390.0,Maya,Mark Tan,False
+TXN-00636,2024-09-15,19:30,Pasig,Nico Ramos,Cold Brew,Cold Drinks,1,150.0,150.0,Debit Card,Ryan Go,True
+TXN-00637,2024-01-10,17:15,Cubao,Patricia Torres,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Jessa Lim,True
+TXN-00638,2024-07-05,14:15,Cubao,Carlos De Leon,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Alvin Santos,True
+TXN-00639,2024-11-20,10:45,Mandaluyong,Isabella Bautista,Matcha Latte,Cold Drinks,2,160.0,320.0,Credit Card,Paolo Cruz,True
+TXN-00640,2024-03-17,10:00,Cubao,Felix Ramos,Cappuccino,Hot Drinks,2,145.0,290.0,Cash,Paolo Cruz,True
+TXN-00641,2024-05-19,09:00,Makati,Miguel Bautista,Matcha Latte,Cold Drinks,2,160.0,320.0,Credit Card,Jessa Lim,True
+TXN-00642,2024-02-12,12:30,Quezon City,Ana Ramos,Americano,Hot Drinks,3,120.0,360.0,GCash,Mark Tan,True
+TXN-00643,2024-09-24,17:30,Alabang,Juan Castillo,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Mira Flores,True
+TXN-00644,2024-08-04,10:15,Cubao,Isabella Mendoza,Caramel Latte,Hot Drinks,1,155.0,155.0,Maya,Jessa Lim,False
+TXN-00645,2024-09-30,12:00,Quezon City,Luis Torres,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Ryan Go,False
+TXN-00646,2024-06-06,07:00,Cubao,Luis Torres,Chocolate Croissant,Pastry,2,95.0,190.0,Maya,Alvin Santos,True
+TXN-00647,2024-09-30,20:15,Pasig,Lea Gonzales,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Maya,Mark Tan,True
+TXN-00648,2024-06-01,10:15,Makati,Nico Castillo,Matcha Latte,Cold Drinks,3,160.0,480.0,Maya,Mark Tan,False
+TXN-00649,2024-08-29,18:45,Quezon City,Juan De Leon,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Maya,Mark Tan,False
+TXN-00650,2024-08-03,16:30,Ortigas,Miguel Bautista,Iced Americano,Cold Drinks,3,130.0,390.0,GCash,Jessa Lim,False
+TXN-00651,2024-04-12,17:30,Quezon City,Miguel Garcia,Cold Brew,Cold Drinks,1,150.0,150.0,Debit Card,Mira Flores,False
+TXN-00652,2024-08-19,14:15,Pasig,Andrea Castillo,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,GCash,Mark Tan,False
+TXN-00653,2024-07-07,09:45,Mandaluyong,Maria Gonzales,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Ryan Go,True
+TXN-00654,2024-05-14,18:15,Quezon City,Renz Torres,Americano,Hot Drinks,2,120.0,240.0,Cash,Alvin Santos,True
+TXN-00655,2024-10-17,08:00,Ortigas,Patricia De Leon,Banana Bread,Pastry,1,80.0,80.0,Cash,Paolo Cruz,True
+TXN-00656,2024-04-07,20:30,Mandaluyong,Nico De Leon,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Debit Card,Paolo Cruz,False
+TXN-00657,2024-12-12,10:45,Pasig,Maria Torres,Americano,Hot Drinks,3,120.0,360.0,GCash,Ryan Go,True
+TXN-00658,2024-07-08,16:45,Cubao,Andrea Aquino,Brewed Coffee,Hot Drinks,2,95.0,190.0,GCash,Mira Flores,False
+TXN-00659,2024-11-01,11:00,Mandaluyong,Andrea Gonzales,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Alvin Santos,True
+TXN-00660,2024-01-03,11:45,Makati,Carla Gonzales,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Debit Card,Rina Ocampo,False
+TXN-00661,2024-03-27,15:45,Cubao,Andrea Aquino,Strawberry Frappe,Cold Drinks,1,175.0,175.0,GCash,Diana Reyes,True
+TXN-00662,2024-06-09,07:15,Pasig,Nico Torres,Matcha Latte,Cold Drinks,2,160.0,320.0,Debit Card,Diana Reyes,False
+TXN-00663,2024-08-11,09:30,Ortigas,Carla Lopez,Cinnamon Roll,Pastry,3,100.0,300.0,Cash,Paolo Cruz,True
+TXN-00664,2024-01-28,10:15,BGC,Patricia Ramos,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Jessa Lim,False
+TXN-00665,2024-07-01,18:45,Alabang,Carla Reyes,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Cash,Paolo Cruz,False
+TXN-00666,2024-04-02,20:15,Mandaluyong,Clara Gonzales,Banana Bread,Pastry,3,80.0,240.0,Debit Card,Jessa Lim,True
+TXN-00667,2024-08-01,08:15,BGC,Maria Torres,Iced Americano,Cold Drinks,3,130.0,390.0,Credit Card,Alvin Santos,True
+TXN-00668,2024-06-14,09:00,Pasig,Ramon Mendoza,Americano,Hot Drinks,3,120.0,360.0,Debit Card,Jessa Lim,False
+TXN-00669,2024-01-23,17:45,Pasig,Jose Castillo,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Jessa Lim,True
+TXN-00670,2024-10-07,16:45,Cubao,Luis Castillo,Americano,Hot Drinks,1,120.0,120.0,Cash,Jessa Lim,True
+TXN-00671,2024-03-24,13:45,Cubao,Ramon Castillo,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Maya,Rina Ocampo,False
+TXN-00672,2024-12-06,08:30,Pasig,Lea Mendoza,Blueberry Muffin,Pastry,2,85.0,170.0,Debit Card,Mira Flores,True
+TXN-00673,2024-08-04,19:30,Makati,Nico Reyes,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Alvin Santos,False
+TXN-00674,2024-12-12,10:15,Pasig,Tanya Reyes,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Mira Flores,True
+TXN-00675,2024-09-01,11:15,Pasig,Tanya Ramos,Cappuccino,Hot Drinks,3,145.0,435.0,Debit Card,Jessa Lim,True
+TXN-00676,2024-01-24,15:00,Pasig,Patricia Bautista,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Diana Reyes,True
+TXN-00677,2024-09-14,07:00,Cubao,Miguel De Leon,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Mark Tan,False
+TXN-00678,2024-12-26,11:30,Pasig,Patricia Villanueva,Cinnamon Roll,Pastry,3,100.0,300.0,Maya,Rina Ocampo,True
+TXN-00679,2024-04-04,08:30,Cubao,Maria Santos,Chocolate Croissant,Pastry,1,95.0,95.0,Cash,Jessa Lim,True
+TXN-00680,2024-12-01,14:45,Ortigas,Renz Aquino,Cinnamon Roll,Pastry,3,100.0,300.0,Maya,Alvin Santos,False
+TXN-00681,2024-06-03,08:15,Mandaluyong,Maria Aquino,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Paolo Cruz,False
+TXN-00682,2024-11-28,09:15,Ortigas,Carlos Castillo,Cold Brew,Cold Drinks,1,150.0,150.0,GCash,Ryan Go,False
+TXN-00683,2024-01-12,08:15,Ortigas,Ramon Santos,Americano,Hot Drinks,4,120.0,480.0,Debit Card,Paolo Cruz,True
+TXN-00684,2024-05-30,16:45,Ortigas,Nico Ramos,Cappuccino,Hot Drinks,1,145.0,145.0,Debit Card,Diana Reyes,True
+TXN-00685,2024-09-06,13:45,Makati,Ramon Garcia,Banana Bread,Pastry,2,80.0,160.0,Debit Card,Jessa Lim,False
+TXN-00686,2024-10-22,12:00,Alabang,Juan Mendoza,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Credit Card,Mira Flores,True
+TXN-00687,2024-03-23,11:15,Alabang,Tanya Garcia,Matcha Latte,Cold Drinks,1,160.0,160.0,Debit Card,Ryan Go,True
+TXN-00688,2024-05-30,18:45,Mandaluyong,Miguel Villanueva,Matcha Latte,Cold Drinks,3,160.0,480.0,Maya,Mark Tan,False
+TXN-00689,2024-03-07,09:15,Pasig,Nico Mendoza,Hot Chocolate,Hot Drinks,2,130.0,260.0,GCash,Paolo Cruz,True
+TXN-00690,2024-01-10,12:30,BGC,Tanya Santos,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Maya,Mira Flores,True
+TXN-00691,2024-11-12,10:00,Alabang,Andrea Castillo,Blueberry Muffin,Pastry,2,85.0,170.0,Cash,Diana Reyes,True
+TXN-00692,2024-12-19,20:00,Ortigas,Patricia Castillo,Chocolate Croissant,Pastry,4,95.0,380.0,Cash,Mark Tan,True
+TXN-00693,2024-10-14,07:00,Pasig,Marco Cruz,Brewed Coffee,Hot Drinks,3,95.0,285.0,Credit Card,Ryan Go,True
+TXN-00694,2024-03-19,17:30,Cubao,Sofia Mendoza,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Cash,Paolo Cruz,False
+TXN-00695,2024-06-23,11:15,Mandaluyong,Nico Flores,Cappuccino,Hot Drinks,1,145.0,145.0,GCash,Mira Flores,True
+TXN-00696,2024-03-11,19:45,Alabang,Tanya Castillo,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Cash,Ryan Go,True
+TXN-00697,2024-01-06,18:00,Makati,Miguel Ramos,Cappuccino,Hot Drinks,1,145.0,145.0,Credit Card,Jessa Lim,True
+TXN-00698,2024-10-21,07:30,Pasig,Felix De Leon,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Maya,Alvin Santos,True
+TXN-00699,2024-05-23,15:15,Ortigas,Sofia Gonzales,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Mira Flores,True
+TXN-00700,2024-06-03,08:00,Pasig,Carla Lopez,Cheese Danish,Pastry,1,90.0,90.0,GCash,Mark Tan,False
+TXN-00701,2024-09-23,12:15,Pasig,Felix Villanueva,Brewed Coffee,Hot Drinks,3,95.0,285.0,GCash,Diana Reyes,False
+TXN-00702,2024-09-15,08:00,Makati,Marco Reyes,Matcha Latte,Cold Drinks,2,160.0,320.0,Cash,Ryan Go,False
+TXN-00703,2024-10-20,18:00,Mandaluyong,Clara Villanueva,Matcha Latte,Cold Drinks,5,160.0,800.0,Maya,Diana Reyes,False
+TXN-00704,2024-12-07,19:15,Alabang,Luis Reyes,Cinnamon Roll,Pastry,2,100.0,200.0,Debit Card,Paolo Cruz,False
+TXN-00705,2024-08-20,08:15,Makati,Ana Reyes,Cinnamon Roll,Pastry,3,100.0,300.0,Credit Card,Rina Ocampo,False
+TXN-00706,2024-04-19,14:00,Cubao,Felix Lopez,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Ryan Go,False
+TXN-00707,2024-08-13,18:45,Quezon City,Carla Lopez,Cinnamon Roll,Pastry,3,100.0,300.0,Credit Card,Ryan Go,True
+TXN-00708,2024-12-26,15:00,Quezon City,Jose Aquino,Blueberry Muffin,Pastry,2,85.0,170.0,Debit Card,Alvin Santos,True
+TXN-00709,2024-11-04,20:45,Quezon City,Carlos Santos,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Alvin Santos,False
+TXN-00710,2024-07-10,11:30,Cubao,Carla Castillo,Iced Americano,Cold Drinks,3,130.0,390.0,Cash,Diana Reyes,False
+TXN-00711,2024-04-20,09:45,Makati,Ana De Leon,Brewed Coffee,Hot Drinks,2,95.0,190.0,Credit Card,Ryan Go,False
+TXN-00712,2024-10-16,14:30,Quezon City,Renz Cruz,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Debit Card,Ryan Go,False
+TXN-00713,2024-12-07,14:15,Cubao,Renz Bautista,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Paolo Cruz,False
+TXN-00714,2024-06-22,15:00,Quezon City,Ana De Leon,Cinnamon Roll,Pastry,2,100.0,200.0,Cash,Diana Reyes,True
+TXN-00715,2024-11-25,15:00,Mandaluyong,Jose Villanueva,Hot Chocolate,Hot Drinks,2,130.0,260.0,Credit Card,Jessa Lim,True
+TXN-00716,2024-12-03,15:15,Ortigas,Luis De Leon,Cappuccino,Hot Drinks,3,145.0,435.0,Cash,Alvin Santos,False
+TXN-00717,2024-10-28,07:45,Alabang,Nico Santos,Cappuccino,Hot Drinks,1,145.0,145.0,Credit Card,Diana Reyes,True
+TXN-00718,2024-02-28,08:15,Pasig,Ana Cruz,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Credit Card,Rina Ocampo,True
+TXN-00719,2024-11-10,12:15,Quezon City,Juan Flores,Brewed Coffee,Hot Drinks,1,95.0,95.0,Credit Card,Alvin Santos,False
+TXN-00720,2024-07-11,20:00,Mandaluyong,Renz Villanueva,Caramel Latte,Hot Drinks,1,155.0,155.0,Credit Card,Mira Flores,True
+TXN-00721,2024-05-17,07:30,Cubao,Ramon Santos,Cold Brew,Cold Drinks,1,150.0,150.0,GCash,Jessa Lim,False
+TXN-00722,2024-10-10,16:00,Cubao,Carla Torres,Hot Chocolate,Hot Drinks,2,130.0,260.0,Credit Card,Mark Tan,True
+TXN-00723,2024-03-13,12:15,Makati,Felix Mendoza,Hot Chocolate,Hot Drinks,4,130.0,520.0,Cash,Ryan Go,False
+TXN-00724,2024-11-30,09:00,Cubao,Isabella De Leon,Americano,Hot Drinks,1,120.0,120.0,Maya,Paolo Cruz,False
+TXN-00725,2024-01-24,09:00,Quezon City,Juan De Leon,Iced Americano,Cold Drinks,1,130.0,130.0,Debit Card,Diana Reyes,False
+TXN-00726,2024-04-17,16:30,Mandaluyong,Patricia Torres,Cheese Danish,Pastry,2,90.0,180.0,Maya,Alvin Santos,True
+TXN-00727,2024-08-23,16:30,Ortigas,Maria Villanueva,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Jessa Lim,True
+TXN-00728,2024-07-30,15:45,Makati,Ana Lopez,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Mark Tan,False
+TXN-00729,2024-07-11,20:30,Ortigas,Maria Reyes,Iced Caramel Latte,Cold Drinks,3,165.0,495.0,Maya,Paolo Cruz,False
+TXN-00730,2024-01-05,10:00,Pasig,Renz Bautista,Matcha Latte,Cold Drinks,1,160.0,160.0,GCash,Paolo Cruz,False
+TXN-00731,2024-07-04,07:30,Cubao,Sofia De Leon,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Diana Reyes,False
+TXN-00732,2024-03-28,15:15,Quezon City,Renz Villanueva,Banana Bread,Pastry,2,80.0,160.0,Cash,Rina Ocampo,True
+TXN-00733,2024-03-06,11:15,Pasig,Maria Aquino,Cheese Danish,Pastry,1,90.0,90.0,Debit Card,Ryan Go,True
+TXN-00734,2024-08-06,17:00,BGC,Nico Torres,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Debit Card,Ryan Go,False
+TXN-00735,2024-07-04,15:00,Ortigas,Nico Lopez,Blueberry Muffin,Pastry,1,85.0,85.0,Maya,Jessa Lim,False
+TXN-00736,2024-04-09,12:00,Cubao,Luis Aquino,Chocolate Croissant,Pastry,5,95.0,475.0,Cash,Paolo Cruz,True
+TXN-00737,2024-03-25,12:30,Makati,Nico Castillo,Brewed Coffee,Hot Drinks,1,95.0,95.0,Debit Card,Alvin Santos,False
+TXN-00738,2024-05-06,08:45,Mandaluyong,Andrea Lopez,Cappuccino,Hot Drinks,3,145.0,435.0,Cash,Ryan Go,True
+TXN-00739,2024-11-16,14:00,BGC,Lea Flores,Brewed Coffee,Hot Drinks,4,95.0,380.0,GCash,Jessa Lim,False
+TXN-00740,2024-01-29,11:45,Pasig,Felix Santos,Brewed Coffee,Hot Drinks,2,95.0,190.0,Credit Card,Mira Flores,True
+TXN-00741,2024-11-12,19:45,Ortigas,Renz Santos,Hot Chocolate,Hot Drinks,3,130.0,390.0,Credit Card,Ryan Go,False
+TXN-00742,2024-11-13,16:00,Mandaluyong,Andrea Villanueva,Iced Americano,Cold Drinks,2,130.0,260.0,Cash,Mark Tan,True
+TXN-00743,2024-10-31,18:00,Pasig,Carla Bautista,Blueberry Muffin,Pastry,4,85.0,340.0,Maya,Mira Flores,False
+TXN-00744,2024-11-13,14:15,Pasig,Jose Cruz,Caramel Latte,Hot Drinks,3,155.0,465.0,Debit Card,Mira Flores,False
+TXN-00745,2024-06-08,16:15,Alabang,Andrea Torres,Americano,Hot Drinks,1,120.0,120.0,Cash,Rina Ocampo,True
+TXN-00746,2024-05-01,15:00,Mandaluyong,Sofia Bautista,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Alvin Santos,True
+TXN-00747,2024-12-07,14:45,Pasig,Clara Flores,Cheese Danish,Pastry,3,90.0,270.0,Credit Card,Alvin Santos,True
+TXN-00748,2024-02-23,14:00,Mandaluyong,Luis Aquino,Iced Caramel Latte,Cold Drinks,4,165.0,660.0,Credit Card,Paolo Cruz,True
+TXN-00749,2024-09-03,18:30,Makati,Miguel De Leon,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Jessa Lim,True
+TXN-00750,2024-07-02,07:00,Alabang,Clara Gonzales,Cappuccino,Hot Drinks,1,145.0,145.0,Cash,Jessa Lim,True
+TXN-00751,2024-04-11,11:15,Mandaluyong,Andrea De Leon,Cappuccino,Hot Drinks,2,145.0,290.0,GCash,Paolo Cruz,True
+TXN-00752,2024-03-31,20:30,BGC,Carla Ramos,Brewed Coffee,Hot Drinks,3,95.0,285.0,Maya,Paolo Cruz,False
+TXN-00753,2024-08-21,10:30,Cubao,Renz Gonzales,Iced Caramel Latte,Cold Drinks,4,165.0,660.0,Cash,Mark Tan,True
+TXN-00754,2024-03-07,19:15,Cubao,Marco Flores,Hot Chocolate,Hot Drinks,1,130.0,130.0,GCash,Jessa Lim,True
+TXN-00755,2024-10-01,11:15,Quezon City,Isabella De Leon,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Debit Card,Ryan Go,True
+TXN-00756,2024-02-11,19:45,Alabang,Tanya Ramos,Banana Bread,Pastry,1,80.0,80.0,Credit Card,Ryan Go,True
+TXN-00757,2024-06-13,18:30,Pasig,Ramon Mendoza,Cinnamon Roll,Pastry,2,100.0,200.0,Debit Card,Mira Flores,True
+TXN-00758,2024-04-16,10:15,Cubao,Carlos Ramos,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Debit Card,Rina Ocampo,False
+TXN-00759,2024-05-10,15:00,Mandaluyong,Tanya Flores,Brewed Coffee,Hot Drinks,1,95.0,95.0,Debit Card,Jessa Lim,False
+TXN-00760,2024-09-19,16:30,Ortigas,Nico Flores,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Maya,Diana Reyes,False
+TXN-00761,2024-01-13,09:45,BGC,Marco Gonzales,Cappuccino,Hot Drinks,2,145.0,290.0,Maya,Mark Tan,False
+TXN-00762,2024-04-26,08:00,Mandaluyong,Sofia Flores,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Diana Reyes,False
+TXN-00763,2024-12-15,20:30,Pasig,Felix Gonzales,Hot Chocolate,Hot Drinks,5,130.0,650.0,Cash,Diana Reyes,False
+TXN-00764,2024-06-26,19:45,Quezon City,Maria Mendoza,Cold Brew,Cold Drinks,3,150.0,450.0,Credit Card,Paolo Cruz,True
+TXN-00765,2024-04-17,14:15,Ortigas,Patricia Aquino,Banana Bread,Pastry,3,80.0,240.0,Maya,Mark Tan,False
+TXN-00766,2024-04-06,13:45,Alabang,Felix Santos,Americano,Hot Drinks,1,120.0,120.0,GCash,Rina Ocampo,False
+TXN-00767,2024-01-05,14:30,Pasig,Lea Castillo,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Maya,Jessa Lim,True
+TXN-00768,2024-03-12,09:30,Cubao,Clara De Leon,Banana Bread,Pastry,4,80.0,320.0,Credit Card,Paolo Cruz,False
+TXN-00769,2024-02-02,15:45,Pasig,Clara Mendoza,Americano,Hot Drinks,1,120.0,120.0,Cash,Rina Ocampo,True
+TXN-00770,2024-12-11,15:15,BGC,Miguel Garcia,Hot Chocolate,Hot Drinks,2,130.0,260.0,Credit Card,Diana Reyes,True
+TXN-00771,2024-04-29,11:00,Alabang,Maria Cruz,Iced Americano,Cold Drinks,1,130.0,130.0,Credit Card,Mira Flores,True
+TXN-00772,2024-02-26,09:45,Mandaluyong,Sofia Cruz,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Mira Flores,False
+TXN-00773,2024-03-22,16:30,Mandaluyong,Patricia Torres,Blueberry Muffin,Pastry,2,85.0,170.0,Cash,Rina Ocampo,False
+TXN-00774,2024-02-02,20:45,Ortigas,Clara Gonzales,Blueberry Muffin,Pastry,2,85.0,170.0,Credit Card,Ryan Go,True
+TXN-00775,2024-02-16,11:45,Mandaluyong,Miguel Ramos,Matcha Latte,Cold Drinks,1,160.0,160.0,GCash,Mira Flores,False
+TXN-00776,2024-07-15,17:15,Quezon City,Jose Garcia,Banana Bread,Pastry,1,80.0,80.0,Maya,Diana Reyes,True
+TXN-00777,2024-12-23,18:15,Alabang,Felix Reyes,Strawberry Frappe,Cold Drinks,5,175.0,875.0,Cash,Mark Tan,False
+TXN-00778,2024-07-28,14:15,BGC,Patricia Santos,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Credit Card,Mira Flores,False
+TXN-00779,2024-07-23,20:15,Quezon City,Juan Aquino,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Ryan Go,False
+TXN-00780,2024-08-24,08:00,Ortigas,Patricia Cruz,Blueberry Muffin,Pastry,2,85.0,170.0,Maya,Rina Ocampo,True
+TXN-00781,2024-01-10,16:00,BGC,Lea Cruz,Cappuccino,Hot Drinks,1,145.0,145.0,Cash,Diana Reyes,True
+TXN-00782,2024-08-13,12:15,Ortigas,Felix Garcia,Brewed Coffee,Hot Drinks,3,95.0,285.0,Cash,Mark Tan,False
+TXN-00783,2024-12-19,11:45,Mandaluyong,Lea Castillo,Hot Chocolate,Hot Drinks,1,130.0,130.0,GCash,Alvin Santos,True
+TXN-00784,2024-04-12,08:00,Mandaluyong,Andrea De Leon,Iced Americano,Cold Drinks,5,130.0,650.0,Cash,Paolo Cruz,True
+TXN-00785,2024-12-06,09:15,Mandaluyong,Andrea Flores,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Paolo Cruz,False
+TXN-00786,2024-08-07,08:15,Cubao,Miguel Santos,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Jessa Lim,False
+TXN-00787,2024-04-18,14:15,BGC,Marco Santos,Cappuccino,Hot Drinks,2,145.0,290.0,GCash,Mira Flores,False
+TXN-00788,2024-11-02,14:00,Pasig,Clara Cruz,Banana Bread,Pastry,3,80.0,240.0,Cash,Alvin Santos,False
+TXN-00789,2024-12-13,19:15,Ortigas,Andrea De Leon,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Cash,Alvin Santos,True
+TXN-00790,2024-11-07,16:45,Makati,Luis Lopez,Cold Brew,Cold Drinks,2,150.0,300.0,GCash,Jessa Lim,True
+TXN-00791,2024-06-07,10:45,Ortigas,Carla Flores,Hot Chocolate,Hot Drinks,1,130.0,130.0,Maya,Paolo Cruz,True
+TXN-00792,2024-07-11,10:00,Alabang,Patricia Aquino,Hot Chocolate,Hot Drinks,5,130.0,650.0,GCash,Diana Reyes,False
+TXN-00793,2024-11-25,19:00,Makati,Carlos Castillo,Cinnamon Roll,Pastry,2,100.0,200.0,GCash,Alvin Santos,False
+TXN-00794,2024-05-04,10:00,Cubao,Luis Villanueva,Blueberry Muffin,Pastry,3,85.0,255.0,Debit Card,Alvin Santos,True
+TXN-00795,2024-08-14,17:00,Quezon City,Sofia Santos,Americano,Hot Drinks,1,120.0,120.0,GCash,Rina Ocampo,True
+TXN-00796,2024-03-29,16:15,Quezon City,Patricia Torres,Hot Chocolate,Hot Drinks,1,130.0,130.0,GCash,Paolo Cruz,False
+TXN-00797,2024-03-31,16:15,Ortigas,Sofia Torres,Matcha Latte,Cold Drinks,2,160.0,320.0,Cash,Alvin Santos,False
+TXN-00798,2024-07-12,09:45,Quezon City,Nico Castillo,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Credit Card,Jessa Lim,False
+TXN-00799,2024-08-06,20:00,Quezon City,Felix Aquino,Cold Brew,Cold Drinks,2,150.0,300.0,Maya,Mira Flores,False
+TXN-00800,2024-06-05,14:30,Quezon City,Ana Flores,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Paolo Cruz,True
+TXN-00801,2024-04-07,07:00,Alabang,Nico Ramos,Cheese Danish,Pastry,2,90.0,180.0,Credit Card,Ryan Go,False
+TXN-00802,2024-11-24,16:00,Quezon City,Juan Ramos,Iced Americano,Cold Drinks,5,130.0,650.0,GCash,Mira Flores,False
+TXN-00803,2024-06-27,15:45,Cubao,Lea Gonzales,Cheese Danish,Pastry,2,90.0,180.0,GCash,Paolo Cruz,False
+TXN-00804,2024-01-18,20:30,Ortigas,Carla Torres,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Diana Reyes,True
+TXN-00805,2024-11-04,16:15,BGC,Lea Ramos,Brewed Coffee,Hot Drinks,3,95.0,285.0,Debit Card,Paolo Cruz,False
+TXN-00806,2024-03-25,20:45,Cubao,Felix Bautista,Matcha Latte,Cold Drinks,2,160.0,320.0,Debit Card,Diana Reyes,False
+TXN-00807,2024-02-15,08:30,Pasig,Lea Aquino,Cappuccino,Hot Drinks,2,145.0,290.0,Cash,Rina Ocampo,False
+TXN-00808,2024-01-01,08:00,Cubao,Carlos Aquino,Cinnamon Roll,Pastry,2,100.0,200.0,GCash,Rina Ocampo,False
+TXN-00809,2024-04-05,18:15,Mandaluyong,Juan Mendoza,Americano,Hot Drinks,1,120.0,120.0,GCash,Paolo Cruz,True
+TXN-00810,2024-04-03,19:15,Quezon City,Renz Reyes,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Cash,Diana Reyes,True
+TXN-00811,2024-07-12,08:30,Ortigas,Luis Mendoza,Cappuccino,Hot Drinks,1,145.0,145.0,Cash,Jessa Lim,True
+TXN-00812,2024-05-16,19:00,Mandaluyong,Jose Reyes,Banana Bread,Pastry,3,80.0,240.0,Debit Card,Jessa Lim,False
+TXN-00813,2024-11-04,15:30,Alabang,Renz Ramos,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Maya,Alvin Santos,False
+TXN-00814,2024-05-02,12:45,Alabang,Marco De Leon,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Jessa Lim,False
+TXN-00815,2024-12-23,13:15,Mandaluyong,Tanya Torres,Hot Chocolate,Hot Drinks,1,130.0,130.0,Maya,Ryan Go,False
+TXN-00816,2024-09-20,13:15,Makati,Marco De Leon,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Ryan Go,True
+TXN-00817,2024-11-06,14:45,Ortigas,Marco Ramos,Banana Bread,Pastry,3,80.0,240.0,Cash,Mira Flores,False
+TXN-00818,2024-11-06,10:15,Quezon City,Tanya Santos,Banana Bread,Pastry,3,80.0,240.0,Credit Card,Mark Tan,False
+TXN-00819,2024-12-10,15:45,Mandaluyong,Ramon Bautista,Americano,Hot Drinks,4,120.0,480.0,GCash,Paolo Cruz,True
+TXN-00820,2024-12-03,18:00,Alabang,Maria Cruz,Americano,Hot Drinks,5,120.0,600.0,Credit Card,Diana Reyes,True
+TXN-00821,2024-05-11,17:45,Ortigas,Felix Bautista,Chocolate Croissant,Pastry,2,95.0,190.0,Cash,Alvin Santos,True
+TXN-00822,2024-10-21,19:00,Cubao,Lea Bautista,Cheese Danish,Pastry,1,90.0,90.0,GCash,Paolo Cruz,False
+TXN-00823,2024-02-29,11:00,Mandaluyong,Clara Gonzales,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Alvin Santos,True
+TXN-00824,2024-06-09,13:00,Cubao,Sofia De Leon,Iced Americano,Cold Drinks,2,130.0,260.0,Credit Card,Alvin Santos,False
+TXN-00825,2024-12-13,19:15,Makati,Juan Ramos,Banana Bread,Pastry,2,80.0,160.0,Debit Card,Ryan Go,False
+TXN-00826,2024-03-15,20:30,Pasig,Carla Villanueva,Americano,Hot Drinks,2,120.0,240.0,GCash,Jessa Lim,False
+TXN-00827,2024-06-07,15:00,Pasig,Sofia Mendoza,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Jessa Lim,False
+TXN-00828,2024-03-19,20:15,Quezon City,Jose Gonzales,Blueberry Muffin,Pastry,2,85.0,170.0,Credit Card,Mira Flores,False
+TXN-00829,2024-12-03,20:15,Ortigas,Nico Bautista,Hot Chocolate,Hot Drinks,1,130.0,130.0,Maya,Mira Flores,False
+TXN-00830,2024-02-06,15:30,BGC,Felix Ramos,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,GCash,Alvin Santos,True
+TXN-00831,2024-12-29,11:45,Ortigas,Patricia Aquino,Blueberry Muffin,Pastry,2,85.0,170.0,Maya,Rina Ocampo,True
+TXN-00832,2024-04-21,19:15,Quezon City,Clara Reyes,Chocolate Croissant,Pastry,1,95.0,95.0,Credit Card,Mira Flores,True
+TXN-00833,2024-01-29,08:30,Alabang,Juan Lopez,Iced Caramel Latte,Cold Drinks,4,165.0,660.0,Debit Card,Mira Flores,True
+TXN-00834,2024-11-17,18:45,Pasig,Lea Mendoza,Brewed Coffee,Hot Drinks,1,95.0,95.0,Debit Card,Rina Ocampo,False
+TXN-00835,2024-12-20,19:00,Makati,Patricia Flores,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Cash,Mark Tan,True
+TXN-00836,2024-03-03,14:15,Pasig,Clara Mendoza,Hot Chocolate,Hot Drinks,2,130.0,260.0,Cash,Rina Ocampo,False
+TXN-00837,2024-09-04,17:45,Quezon City,Andrea Reyes,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Jessa Lim,False
+TXN-00838,2024-10-11,20:45,BGC,Felix Aquino,Hot Chocolate,Hot Drinks,3,130.0,390.0,GCash,Mark Tan,True
+TXN-00839,2024-11-02,18:15,Makati,Andrea Reyes,Hot Chocolate,Hot Drinks,1,130.0,130.0,GCash,Paolo Cruz,True
+TXN-00840,2024-02-14,15:30,Alabang,Tanya Torres,Brewed Coffee,Hot Drinks,5,95.0,475.0,Debit Card,Rina Ocampo,False
+TXN-00841,2024-12-02,07:15,Pasig,Tanya Gonzales,Iced Americano,Cold Drinks,4,130.0,520.0,Debit Card,Ryan Go,True
+TXN-00842,2024-10-22,14:30,BGC,Tanya Garcia,Cheese Danish,Pastry,2,90.0,180.0,Cash,Paolo Cruz,True
+TXN-00843,2024-04-06,09:30,Alabang,Sofia Villanueva,Caramel Latte,Hot Drinks,2,155.0,310.0,Maya,Rina Ocampo,False
+TXN-00844,2024-02-08,15:30,Ortigas,Miguel Ramos,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Cash,Diana Reyes,False
+TXN-00845,2024-12-21,09:15,Alabang,Sofia Aquino,Cappuccino,Hot Drinks,5,145.0,725.0,Debit Card,Rina Ocampo,False
+TXN-00846,2024-03-19,12:45,Pasig,Luis Reyes,Iced Americano,Cold Drinks,4,130.0,520.0,Cash,Mark Tan,False
+TXN-00847,2024-02-03,12:00,Mandaluyong,Carla De Leon,Matcha Latte,Cold Drinks,3,160.0,480.0,Maya,Jessa Lim,True
+TXN-00848,2024-07-12,10:45,Ortigas,Carlos Villanueva,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Alvin Santos,False
+TXN-00849,2024-10-09,11:00,Alabang,Lea Cruz,Caramel Latte,Hot Drinks,1,155.0,155.0,Debit Card,Mira Flores,False
+TXN-00850,2024-10-30,09:30,Cubao,Carla Cruz,Hot Chocolate,Hot Drinks,2,130.0,260.0,Debit Card,Diana Reyes,True
+TXN-00851,2024-11-23,12:15,Ortigas,Patricia Cruz,Banana Bread,Pastry,1,80.0,80.0,Maya,Ryan Go,False
+TXN-00852,2024-05-21,13:15,Alabang,Nico Castillo,Iced Americano,Cold Drinks,4,130.0,520.0,Cash,Mark Tan,True
+TXN-00853,2024-05-02,08:15,Ortigas,Carlos Lopez,Chocolate Croissant,Pastry,1,95.0,95.0,Cash,Mira Flores,True
+TXN-00854,2024-09-02,14:00,Cubao,Maria Aquino,Iced Americano,Cold Drinks,2,130.0,260.0,Debit Card,Alvin Santos,True
+TXN-00855,2024-12-04,20:00,Mandaluyong,Tanya Gonzales,Cinnamon Roll,Pastry,4,100.0,400.0,GCash,Mark Tan,False
+TXN-00856,2024-03-09,15:30,BGC,Miguel Flores,Americano,Hot Drinks,2,120.0,240.0,Maya,Paolo Cruz,True
+TXN-00857,2024-05-28,11:45,Mandaluyong,Clara Ramos,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Jessa Lim,False
+TXN-00858,2024-11-12,20:45,Pasig,Patricia Flores,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Mark Tan,True
+TXN-00859,2024-06-28,18:15,Mandaluyong,Nico Mendoza,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Rina Ocampo,False
+TXN-00860,2024-03-04,14:00,Pasig,Lea Flores,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Mira Flores,True
+TXN-00861,2024-10-01,19:30,Quezon City,Patricia Cruz,Americano,Hot Drinks,2,120.0,240.0,Maya,Mira Flores,True
+TXN-00862,2024-07-02,20:15,Cubao,Carla Ramos,Caramel Latte,Hot Drinks,1,155.0,155.0,Maya,Jessa Lim,True
+TXN-00863,2024-12-07,10:45,Ortigas,Ramon Lopez,Cheese Danish,Pastry,1,90.0,90.0,GCash,Alvin Santos,False
+TXN-00864,2024-09-13,18:45,Quezon City,Maria Cruz,Brewed Coffee,Hot Drinks,4,95.0,380.0,Maya,Jessa Lim,True
+TXN-00865,2024-01-27,17:30,Pasig,Nico Mendoza,Cold Brew,Cold Drinks,2,150.0,300.0,Maya,Ryan Go,True
+TXN-00866,2024-08-07,10:15,BGC,Isabella Castillo,Banana Bread,Pastry,1,80.0,80.0,Maya,Paolo Cruz,False
+TXN-00867,2024-04-11,14:00,Quezon City,Sofia De Leon,Banana Bread,Pastry,2,80.0,160.0,GCash,Mark Tan,True
+TXN-00868,2024-07-24,07:30,BGC,Renz Garcia,Caramel Latte,Hot Drinks,1,155.0,155.0,Cash,Mira Flores,False
+TXN-00869,2024-09-25,11:15,Cubao,Jose Lopez,Cappuccino,Hot Drinks,1,145.0,145.0,Cash,Diana Reyes,True
+TXN-00870,2024-05-17,12:30,Makati,Jose Cruz,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Cash,Jessa Lim,False
+TXN-00871,2024-04-18,11:45,Ortigas,Miguel Torres,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Alvin Santos,False
+TXN-00872,2024-02-27,08:00,Alabang,Carla Flores,Banana Bread,Pastry,3,80.0,240.0,Maya,Alvin Santos,True
+TXN-00873,2024-11-28,11:15,BGC,Juan Cruz,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Paolo Cruz,True
+TXN-00874,2024-12-26,14:00,Ortigas,Carlos Aquino,Hot Chocolate,Hot Drinks,2,130.0,260.0,GCash,Rina Ocampo,True
+TXN-00875,2024-03-06,10:45,Alabang,Felix Flores,Cheese Danish,Pastry,3,90.0,270.0,Credit Card,Mark Tan,False
+TXN-00876,2024-02-04,14:45,Pasig,Miguel Villanueva,Banana Bread,Pastry,3,80.0,240.0,GCash,Diana Reyes,True
+TXN-00877,2024-10-16,07:15,BGC,Felix De Leon,Cinnamon Roll,Pastry,2,100.0,200.0,GCash,Ryan Go,False
+TXN-00878,2024-10-14,19:45,Quezon City,Miguel Santos,Cold Brew,Cold Drinks,1,150.0,150.0,Debit Card,Paolo Cruz,True
+TXN-00879,2024-09-19,14:30,BGC,Isabella Lopez,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,GCash,Paolo Cruz,True
+TXN-00880,2024-09-30,10:30,Quezon City,Isabella Gonzales,Caramel Latte,Hot Drinks,4,155.0,620.0,Maya,Jessa Lim,True
+TXN-00881,2024-04-17,15:00,BGC,Marco Flores,Cappuccino,Hot Drinks,2,145.0,290.0,Debit Card,Diana Reyes,True
+TXN-00882,2024-07-28,16:30,Alabang,Maria De Leon,Iced Americano,Cold Drinks,2,130.0,260.0,GCash,Diana Reyes,True
+TXN-00883,2024-05-11,07:00,Mandaluyong,Isabella De Leon,Cinnamon Roll,Pastry,4,100.0,400.0,Credit Card,Paolo Cruz,False
+TXN-00884,2024-05-17,10:45,Quezon City,Nico Flores,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Mark Tan,False
+TXN-00885,2024-04-02,14:15,Pasig,Miguel Bautista,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Diana Reyes,True
+TXN-00886,2024-03-31,20:45,Cubao,Carla Reyes,Banana Bread,Pastry,1,80.0,80.0,GCash,Ryan Go,False
+TXN-00887,2024-02-21,18:15,Makati,Lea Ramos,Chocolate Croissant,Pastry,2,95.0,190.0,Cash,Jessa Lim,True
+TXN-00888,2024-03-08,10:00,Makati,Renz Santos,Iced Caramel Latte,Cold Drinks,4,165.0,660.0,Cash,Alvin Santos,True
+TXN-00889,2024-04-13,09:45,Ortigas,Carlos Flores,Cinnamon Roll,Pastry,3,100.0,300.0,GCash,Paolo Cruz,True
+TXN-00890,2024-10-05,18:30,Pasig,Jose Reyes,Banana Bread,Pastry,1,80.0,80.0,Cash,Mira Flores,True
+TXN-00891,2024-01-01,10:00,Pasig,Marco Bautista,Americano,Hot Drinks,1,120.0,120.0,GCash,Mira Flores,True
+TXN-00892,2024-09-08,09:00,BGC,Carlos Flores,Brewed Coffee,Hot Drinks,4,95.0,380.0,Debit Card,Alvin Santos,True
+TXN-00893,2024-07-03,08:00,Quezon City,Tanya Flores,Blueberry Muffin,Pastry,1,85.0,85.0,Credit Card,Rina Ocampo,False
+TXN-00894,2024-11-15,20:30,Alabang,Ramon Bautista,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Mark Tan,True
+TXN-00895,2024-03-17,19:15,BGC,Ramon De Leon,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Cash,Mira Flores,False
+TXN-00896,2024-03-15,08:30,Ortigas,Marco Flores,Caramel Latte,Hot Drinks,3,155.0,465.0,Credit Card,Ryan Go,False
+TXN-00897,2024-11-04,19:30,Ortigas,Felix Mendoza,Caramel Latte,Hot Drinks,1,155.0,155.0,Debit Card,Paolo Cruz,False
+TXN-00898,2024-02-12,16:45,BGC,Luis Aquino,Banana Bread,Pastry,3,80.0,240.0,GCash,Alvin Santos,True
+TXN-00899,2024-04-14,20:00,BGC,Carla Gonzales,Cold Brew,Cold Drinks,2,150.0,300.0,Cash,Alvin Santos,False
+TXN-00900,2024-03-12,11:45,Mandaluyong,Nico Garcia,Hot Chocolate,Hot Drinks,5,130.0,650.0,GCash,Jessa Lim,True
+TXN-00901,2024-03-01,18:15,Makati,Nico Flores,Iced Americano,Cold Drinks,2,130.0,260.0,Cash,Mark Tan,False
+TXN-00902,2024-10-31,20:15,BGC,Ana Garcia,Caramel Latte,Hot Drinks,1,155.0,155.0,Cash,Mira Flores,True
+TXN-00903,2024-04-03,14:15,Cubao,Carlos Mendoza,Banana Bread,Pastry,2,80.0,160.0,Maya,Ryan Go,True
+TXN-00904,2024-05-26,08:15,Quezon City,Miguel Lopez,Brewed Coffee,Hot Drinks,2,95.0,190.0,Cash,Mira Flores,False
+TXN-00905,2024-12-14,14:30,Quezon City,Luis Ramos,Banana Bread,Pastry,1,80.0,80.0,Maya,Mark Tan,False
+TXN-00906,2024-03-05,18:15,BGC,Lea Cruz,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Ryan Go,False
+TXN-00907,2024-11-30,17:45,Cubao,Marco Bautista,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,GCash,Diana Reyes,True
+TXN-00908,2024-02-23,08:30,BGC,Carlos Cruz,Cheese Danish,Pastry,1,90.0,90.0,Cash,Paolo Cruz,True
+TXN-00909,2024-06-07,10:15,Makati,Ana Villanueva,Chocolate Croissant,Pastry,1,95.0,95.0,Debit Card,Ryan Go,True
+TXN-00910,2024-01-25,12:00,Mandaluyong,Carlos Ramos,Iced Americano,Cold Drinks,5,130.0,650.0,Maya,Mira Flores,False
+TXN-00911,2024-03-07,18:00,Quezon City,Tanya Reyes,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Cash,Mira Flores,False
+TXN-00912,2024-10-27,20:00,BGC,Patricia Reyes,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,GCash,Paolo Cruz,True
+TXN-00913,2024-03-23,15:30,Cubao,Marco Villanueva,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Cash,Mira Flores,True
+TXN-00914,2024-04-16,16:00,Makati,Ramon Reyes,Hot Chocolate,Hot Drinks,2,130.0,260.0,GCash,Diana Reyes,True
+TXN-00915,2024-09-12,08:45,Pasig,Miguel Reyes,Iced Caramel Latte,Cold Drinks,4,165.0,660.0,Debit Card,Alvin Santos,False
+TXN-00916,2024-02-15,08:15,Ortigas,Ramon Torres,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Mark Tan,False
+TXN-00917,2024-01-21,12:30,Alabang,Carla Mendoza,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Debit Card,Alvin Santos,False
+TXN-00918,2024-02-12,17:45,Makati,Jose Villanueva,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Jessa Lim,True
+TXN-00919,2024-02-23,11:45,Cubao,Ana Garcia,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Mark Tan,False
+TXN-00920,2024-08-26,14:45,Cubao,Juan Gonzales,Brewed Coffee,Hot Drinks,1,95.0,95.0,Credit Card,Paolo Cruz,False
+TXN-00921,2024-06-17,08:30,Pasig,Ramon Reyes,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Jessa Lim,True
+TXN-00922,2024-08-28,09:15,Cubao,Renz Castillo,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Alvin Santos,False
+TXN-00923,2024-08-30,10:00,Pasig,Nico Torres,Brewed Coffee,Hot Drinks,4,95.0,380.0,GCash,Mark Tan,True
+TXN-00924,2024-02-05,11:45,Cubao,Patricia De Leon,Cappuccino,Hot Drinks,3,145.0,435.0,Debit Card,Paolo Cruz,False
+TXN-00925,2024-04-04,20:00,Mandaluyong,Carlos Cruz,Americano,Hot Drinks,1,120.0,120.0,Maya,Mira Flores,False
+TXN-00926,2024-08-31,15:15,Makati,Clara Ramos,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Paolo Cruz,True
+TXN-00927,2024-12-07,16:15,Quezon City,Patricia Gonzales,Matcha Latte,Cold Drinks,1,160.0,160.0,Credit Card,Alvin Santos,True
+TXN-00928,2024-12-11,13:30,Ortigas,Carla Bautista,Chocolate Croissant,Pastry,5,95.0,475.0,Debit Card,Mark Tan,True
+TXN-00929,2024-04-21,18:15,Mandaluyong,Renz Ramos,Cold Brew,Cold Drinks,3,150.0,450.0,Maya,Paolo Cruz,True
+TXN-00930,2024-12-13,16:00,BGC,Carlos Lopez,Matcha Latte,Cold Drinks,1,160.0,160.0,Credit Card,Ryan Go,False
+TXN-00931,2024-07-29,12:30,Quezon City,Andrea Reyes,Cinnamon Roll,Pastry,2,100.0,200.0,Credit Card,Mira Flores,False
+TXN-00932,2024-03-31,15:15,Pasig,Nico Bautista,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Mark Tan,True
+TXN-00933,2024-02-23,08:00,BGC,Renz Gonzales,Cinnamon Roll,Pastry,1,100.0,100.0,Credit Card,Jessa Lim,False
+TXN-00934,2024-08-03,10:15,Ortigas,Sofia De Leon,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Alvin Santos,False
+TXN-00935,2024-07-30,20:45,Pasig,Tanya Torres,Cappuccino,Hot Drinks,3,145.0,435.0,Maya,Diana Reyes,False
+TXN-00936,2024-12-10,10:00,Alabang,Carla Castillo,Iced Americano,Cold Drinks,1,130.0,130.0,Debit Card,Alvin Santos,False
+TXN-00937,2024-03-28,16:45,Cubao,Sofia Villanueva,Hot Chocolate,Hot Drinks,5,130.0,650.0,Cash,Mira Flores,True
+TXN-00938,2024-11-21,13:15,BGC,Nico Garcia,Matcha Latte,Cold Drinks,2,160.0,320.0,GCash,Mark Tan,False
+TXN-00939,2024-11-17,11:15,Makati,Maria Ramos,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Debit Card,Rina Ocampo,True
+TXN-00940,2024-11-12,18:00,Alabang,Carla Mendoza,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Paolo Cruz,True
+TXN-00941,2024-06-01,10:15,BGC,Jose Torres,Cinnamon Roll,Pastry,3,100.0,300.0,GCash,Jessa Lim,True
+TXN-00942,2024-02-26,14:00,BGC,Miguel Reyes,Caramel Latte,Hot Drinks,1,155.0,155.0,Credit Card,Alvin Santos,True
+TXN-00943,2024-07-19,08:45,Cubao,Ana Garcia,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Alvin Santos,False
+TXN-00944,2024-03-23,09:30,Makati,Renz De Leon,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Alvin Santos,False
+TXN-00945,2024-09-04,16:00,Makati,Juan Garcia,Hot Chocolate,Hot Drinks,2,130.0,260.0,Debit Card,Jessa Lim,True
+TXN-00946,2024-04-20,20:30,BGC,Carla Garcia,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Diana Reyes,False
+TXN-00947,2024-09-03,10:00,Ortigas,Patricia Aquino,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Mira Flores,True
+TXN-00948,2024-05-08,09:15,Pasig,Juan Villanueva,Cheese Danish,Pastry,4,90.0,360.0,GCash,Paolo Cruz,False
+TXN-00949,2024-08-09,14:45,Cubao,Renz Reyes,Cheese Danish,Pastry,3,90.0,270.0,Credit Card,Paolo Cruz,False
+TXN-00950,2024-07-10,17:00,Cubao,Tanya Torres,Iced Caramel Latte,Cold Drinks,3,165.0,495.0,Maya,Alvin Santos,False
+TXN-00951,2024-01-16,08:15,BGC,Marco Garcia,Strawberry Frappe,Cold Drinks,3,175.0,525.0,GCash,Alvin Santos,False
+TXN-00952,2024-03-15,19:30,Alabang,Maria Aquino,Brewed Coffee,Hot Drinks,1,95.0,95.0,GCash,Ryan Go,False
+TXN-00953,2024-04-29,15:00,BGC,Tanya Garcia,Matcha Latte,Cold Drinks,2,160.0,320.0,Debit Card,Diana Reyes,True
+TXN-00954,2024-10-20,17:45,Mandaluyong,Andrea Garcia,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Ryan Go,False
+TXN-00955,2024-01-24,11:45,Cubao,Renz Flores,Brewed Coffee,Hot Drinks,2,95.0,190.0,GCash,Jessa Lim,False
+TXN-00956,2024-01-10,17:00,Makati,Lea Santos,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Jessa Lim,True
+TXN-00957,2024-08-28,08:45,BGC,Marco Ramos,Cheese Danish,Pastry,1,90.0,90.0,Debit Card,Alvin Santos,False
+TXN-00958,2024-11-09,07:45,Alabang,Juan De Leon,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Debit Card,Mark Tan,True
+TXN-00959,2024-04-24,07:00,Quezon City,Nico Garcia,Brewed Coffee,Hot Drinks,5,95.0,475.0,Cash,Paolo Cruz,False
+TXN-00960,2024-10-02,07:00,Pasig,Carlos Reyes,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Mira Flores,False
+TXN-00961,2024-12-23,09:15,Quezon City,Andrea De Leon,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Mira Flores,False
+TXN-00962,2024-12-08,08:15,Ortigas,Isabella Flores,Cinnamon Roll,Pastry,2,100.0,200.0,GCash,Mark Tan,False
+TXN-00963,2024-05-31,18:00,Mandaluyong,Luis Bautista,Cold Brew,Cold Drinks,3,150.0,450.0,Cash,Mark Tan,False
+TXN-00964,2024-01-31,10:00,Ortigas,Lea Garcia,Blueberry Muffin,Pastry,2,85.0,170.0,Cash,Alvin Santos,True
+TXN-00965,2024-10-29,19:30,Quezon City,Tanya Reyes,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Alvin Santos,False
+TXN-00966,2024-08-19,20:15,Pasig,Nico Cruz,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Debit Card,Mark Tan,True
+TXN-00967,2024-08-24,08:00,Makati,Miguel Torres,Brewed Coffee,Hot Drinks,3,95.0,285.0,Credit Card,Ryan Go,False
+TXN-00968,2024-05-15,08:00,Cubao,Lea Lopez,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Debit Card,Alvin Santos,True
+TXN-00969,2024-08-13,11:30,Pasig,Nico Garcia,Brewed Coffee,Hot Drinks,2,95.0,190.0,GCash,Mira Flores,True
+TXN-00970,2024-10-31,11:45,Mandaluyong,Jose Bautista,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Paolo Cruz,True
+TXN-00971,2024-01-28,07:30,Cubao,Isabella Garcia,Brewed Coffee,Hot Drinks,2,95.0,190.0,Credit Card,Mira Flores,True
+TXN-00972,2024-04-22,18:30,Pasig,Sofia Flores,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Debit Card,Diana Reyes,True
+TXN-00973,2024-02-18,09:45,Alabang,Luis Cruz,Cheese Danish,Pastry,3,90.0,270.0,Cash,Rina Ocampo,True
+TXN-00974,2024-06-19,14:15,Pasig,Maria Cruz,Americano,Hot Drinks,1,120.0,120.0,Cash,Rina Ocampo,True
+TXN-00975,2024-10-31,12:45,BGC,Luis Mendoza,Chocolate Croissant,Pastry,2,95.0,190.0,Cash,Jessa Lim,False
+TXN-00976,2024-04-26,15:15,Ortigas,Andrea Mendoza,Brewed Coffee,Hot Drinks,1,95.0,95.0,Maya,Diana Reyes,False
+TXN-00977,2024-05-09,12:45,Ortigas,Andrea Gonzales,Cappuccino,Hot Drinks,1,145.0,145.0,Cash,Diana Reyes,True
+TXN-00978,2024-03-16,13:15,Cubao,Maria Garcia,Blueberry Muffin,Pastry,1,85.0,85.0,Maya,Paolo Cruz,True
+TXN-00979,2024-04-09,13:00,Quezon City,Patricia Gonzales,Cold Brew,Cold Drinks,3,150.0,450.0,Maya,Alvin Santos,False
+TXN-00980,2024-07-19,16:45,Alabang,Clara Lopez,Matcha Latte,Cold Drinks,1,160.0,160.0,Debit Card,Mark Tan,False
+TXN-00981,2024-08-20,16:30,Quezon City,Ramon Gonzales,Iced Americano,Cold Drinks,4,130.0,520.0,Credit Card,Rina Ocampo,False
+TXN-00982,2024-11-15,15:15,Ortigas,Carlos Santos,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Cash,Paolo Cruz,False
+TXN-00983,2024-10-30,08:00,Makati,Marco Bautista,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Diana Reyes,True
+TXN-00984,2024-06-28,11:15,BGC,Sofia Ramos,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Paolo Cruz,True
+TXN-00985,2024-08-30,12:15,Pasig,Juan Gonzales,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Diana Reyes,True
+TXN-00986,2024-10-15,13:30,Quezon City,Sofia Torres,Blueberry Muffin,Pastry,2,85.0,170.0,Credit Card,Paolo Cruz,False
+TXN-00987,2024-06-05,08:30,Cubao,Lea Castillo,Cinnamon Roll,Pastry,2,100.0,200.0,Cash,Rina Ocampo,False
+TXN-00988,2024-12-21,12:30,Ortigas,Nico Ramos,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Jessa Lim,False
+TXN-00989,2024-02-15,19:15,Alabang,Clara Lopez,Cheese Danish,Pastry,3,90.0,270.0,GCash,Diana Reyes,True
+TXN-00990,2024-07-20,09:45,Makati,Tanya Mendoza,Chocolate Croissant,Pastry,2,95.0,190.0,Cash,Jessa Lim,False
+TXN-00991,2024-11-28,08:30,Alabang,Clara Mendoza,Chocolate Croissant,Pastry,3,95.0,285.0,Cash,Mark Tan,True
+TXN-00992,2024-12-25,10:15,Pasig,Carla Torres,Cinnamon Roll,Pastry,1,100.0,100.0,Cash,Ryan Go,True
+TXN-00993,2024-02-28,08:00,Mandaluyong,Tanya Reyes,Hot Chocolate,Hot Drinks,3,130.0,390.0,GCash,Mark Tan,False
+TXN-00994,2024-01-13,20:45,Ortigas,Carlos Ramos,Iced Americano,Cold Drinks,4,130.0,520.0,GCash,Paolo Cruz,False
+TXN-00995,2024-11-09,17:45,Makati,Carla Bautista,Banana Bread,Pastry,1,80.0,80.0,GCash,Rina Ocampo,True
+TXN-00996,2024-03-28,15:15,Ortigas,Juan Villanueva,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Maya,Diana Reyes,False
+TXN-00997,2024-07-16,18:00,Pasig,Carla Santos,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Credit Card,Mark Tan,False
+TXN-00998,2024-01-06,16:30,Ortigas,Marco Cruz,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Diana Reyes,True
+TXN-00999,2024-03-22,12:15,Quezon City,Ana Cruz,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Alvin Santos,False
+TXN-01000,2024-03-12,11:30,Ortigas,Ramon Ramos,Iced Americano,Cold Drinks,4,130.0,520.0,Debit Card,Rina Ocampo,False
+TXN-01001,2024-03-07,18:30,Cubao,Renz De Leon,Banana Bread,Pastry,1,80.0,80.0,Cash,Jessa Lim,True
+TXN-01002,2024-03-22,10:00,Mandaluyong,Ramon Flores,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Mark Tan,True
+TXN-01003,2024-07-15,19:45,BGC,Juan Santos,Brewed Coffee,Hot Drinks,2,95.0,190.0,Credit Card,Alvin Santos,True
+TXN-01004,2024-03-30,12:00,Mandaluyong,Clara Lopez,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Diana Reyes,False
+TXN-01005,2024-08-12,17:30,Mandaluyong,Nico De Leon,Caramel Latte,Hot Drinks,2,155.0,310.0,Cash,Jessa Lim,True
+TXN-01006,2024-04-14,07:15,BGC,Clara Lopez,Cappuccino,Hot Drinks,3,145.0,435.0,Maya,Rina Ocampo,False
+TXN-01007,2024-04-07,20:15,Quezon City,Marco Villanueva,Cinnamon Roll,Pastry,2,100.0,200.0,Cash,Ryan Go,False
+TXN-01008,2024-11-16,13:00,BGC,Tanya Torres,Chocolate Croissant,Pastry,1,95.0,95.0,Cash,Ryan Go,True
+TXN-01009,2024-01-27,16:30,Pasig,Carlos Gonzales,Caramel Latte,Hot Drinks,3,155.0,465.0,Credit Card,Alvin Santos,True
+TXN-01010,2024-03-21,11:00,Pasig,Tanya Gonzales,Banana Bread,Pastry,1,80.0,80.0,Credit Card,Jessa Lim,True
+TXN-01011,2024-10-25,14:30,Mandaluyong,Nico Torres,Chocolate Croissant,Pastry,1,95.0,95.0,Maya,Jessa Lim,True
+TXN-01012,2024-04-14,15:30,Makati,Ana Castillo,Chocolate Croissant,Pastry,1,95.0,95.0,Maya,Mark Tan,False
+TXN-01013,2024-11-02,18:00,Makati,Isabella Aquino,Cinnamon Roll,Pastry,4,100.0,400.0,Cash,Jessa Lim,False
+TXN-01014,2024-09-16,10:30,Makati,Luis Santos,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Cash,Paolo Cruz,False
+TXN-01015,2024-12-15,17:00,Quezon City,Lea Aquino,Cinnamon Roll,Pastry,1,100.0,100.0,Credit Card,Mira Flores,True
+TXN-01016,2024-02-29,14:00,Makati,Andrea Ramos,Cheese Danish,Pastry,1,90.0,90.0,GCash,Paolo Cruz,True
+TXN-01017,2024-10-28,07:15,Mandaluyong,Maria De Leon,Cold Brew,Cold Drinks,2,150.0,300.0,Cash,Mark Tan,True
+TXN-01018,2024-03-05,14:15,Mandaluyong,Renz Bautista,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Rina Ocampo,False
+TXN-01019,2024-09-02,17:00,Ortigas,Felix Garcia,Chocolate Croissant,Pastry,1,95.0,95.0,Maya,Paolo Cruz,False
+TXN-01020,2024-12-31,11:30,Pasig,Luis Lopez,Cheese Danish,Pastry,3,90.0,270.0,Maya,Mark Tan,True
+TXN-01021,2024-06-26,13:45,Mandaluyong,Carla De Leon,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Paolo Cruz,True
+TXN-01022,2024-07-09,18:15,Makati,Patricia Reyes,Caramel Latte,Hot Drinks,2,155.0,310.0,Credit Card,Jessa Lim,False
+TXN-01023,2024-05-22,16:45,Ortigas,Renz Ramos,Iced Americano,Cold Drinks,1,130.0,130.0,Cash,Mira Flores,False
+TXN-01024,2024-08-15,07:15,Makati,Nico Lopez,Americano,Hot Drinks,1,120.0,120.0,Maya,Jessa Lim,False
+TXN-01025,2024-01-14,16:30,Cubao,Maria Flores,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Jessa Lim,True
+TXN-01026,2024-10-10,13:30,Pasig,Clara Castillo,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Mira Flores,False
+TXN-01027,2024-05-01,09:00,Pasig,Luis Castillo,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Mira Flores,True
+TXN-01028,2024-11-11,11:30,BGC,Renz Santos,Matcha Latte,Cold Drinks,3,160.0,480.0,Maya,Alvin Santos,False
+TXN-01029,2024-04-01,14:45,Ortigas,Jose Flores,Americano,Hot Drinks,1,120.0,120.0,Debit Card,Paolo Cruz,False
+TXN-01030,2024-01-30,16:00,Quezon City,Ana Mendoza,Cold Brew,Cold Drinks,2,150.0,300.0,Maya,Diana Reyes,False
+TXN-01031,2024-09-10,09:15,Makati,Renz Bautista,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Mark Tan,True
+TXN-01032,2024-04-04,17:45,Pasig,Luis Santos,Cheese Danish,Pastry,1,90.0,90.0,Maya,Jessa Lim,False
+TXN-01033,2024-10-03,18:00,Ortigas,Ana Lopez,Blueberry Muffin,Pastry,1,85.0,85.0,Cash,Mark Tan,True
+TXN-01034,2024-04-14,12:30,Pasig,Nico Gonzales,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Jessa Lim,False
+TXN-01035,2024-11-06,19:30,Pasig,Marco Mendoza,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Debit Card,Jessa Lim,True
+TXN-01036,2024-07-07,07:30,Alabang,Renz Garcia,Hot Chocolate,Hot Drinks,1,130.0,130.0,Debit Card,Alvin Santos,True
+TXN-01037,2024-07-12,20:00,Mandaluyong,Ana Reyes,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Mira Flores,True
+TXN-01038,2024-09-27,19:00,Alabang,Tanya Mendoza,Cinnamon Roll,Pastry,2,100.0,200.0,Maya,Paolo Cruz,False
+TXN-01039,2024-05-04,12:15,Mandaluyong,Juan Aquino,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Credit Card,Mira Flores,False
+TXN-01040,2024-02-10,12:00,Cubao,Patricia Castillo,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Rina Ocampo,True
+TXN-01041,2024-07-27,17:15,BGC,Andrea Flores,Cheese Danish,Pastry,3,90.0,270.0,Cash,Mira Flores,False
+TXN-01042,2024-09-15,09:45,Quezon City,Patricia Santos,Blueberry Muffin,Pastry,3,85.0,255.0,Cash,Mira Flores,False
+TXN-01043,2024-10-10,18:45,Cubao,Jose De Leon,Chocolate Croissant,Pastry,1,95.0,95.0,Cash,Rina Ocampo,True
+TXN-01044,2024-03-08,15:45,Pasig,Felix Garcia,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Alvin Santos,False
+TXN-01045,2024-10-29,16:00,Cubao,Marco Mendoza,Chocolate Croissant,Pastry,1,95.0,95.0,Credit Card,Mira Flores,False
+TXN-01046,2024-09-01,18:15,BGC,Clara Gonzales,Blueberry Muffin,Pastry,2,85.0,170.0,GCash,Jessa Lim,False
+TXN-01047,2024-12-11,17:45,Pasig,Tanya Aquino,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Paolo Cruz,False
+TXN-01048,2024-09-09,12:00,Cubao,Clara Lopez,Banana Bread,Pastry,3,80.0,240.0,Maya,Alvin Santos,False
+TXN-01049,2024-06-12,19:15,Pasig,Sofia Ramos,Brewed Coffee,Hot Drinks,3,95.0,285.0,Debit Card,Alvin Santos,True
+TXN-01050,2024-06-26,11:15,Quezon City,Patricia Garcia,Cappuccino,Hot Drinks,1,145.0,145.0,Maya,Diana Reyes,True
+TXN-01051,2024-04-28,17:30,Quezon City,Tanya Castillo,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Jessa Lim,True
+TXN-01052,2024-01-04,14:00,Ortigas,Clara Ramos,Iced Caramel Latte,Cold Drinks,1,165.0,165.0,Debit Card,Rina Ocampo,False
+TXN-01053,2024-05-31,08:00,Quezon City,Ana De Leon,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Maya,Mark Tan,False
+TXN-01054,2024-02-10,18:15,Pasig,Tanya Flores,Chocolate Croissant,Pastry,1,95.0,95.0,Credit Card,Mark Tan,False
+TXN-01055,2024-01-20,13:00,Makati,Felix Bautista,Banana Bread,Pastry,1,80.0,80.0,Cash,Paolo Cruz,True
+TXN-01056,2024-10-27,13:15,Quezon City,Carla Mendoza,Blueberry Muffin,Pastry,1,85.0,85.0,Credit Card,Diana Reyes,True
+TXN-01057,2024-04-11,17:00,Mandaluyong,Ana Mendoza,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Jessa Lim,False
+TXN-01058,2024-12-18,11:45,Quezon City,Marco Mendoza,Banana Bread,Pastry,1,80.0,80.0,Maya,Paolo Cruz,False
+TXN-01059,2024-12-08,14:45,Pasig,Felix Mendoza,Cinnamon Roll,Pastry,2,100.0,200.0,Cash,Paolo Cruz,True
+TXN-01060,2024-05-27,13:45,Ortigas,Juan Cruz,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Maya,Mark Tan,False
+TXN-01061,2024-12-22,13:15,Pasig,Luis Santos,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Maya,Paolo Cruz,False
+TXN-01062,2024-02-01,15:30,Cubao,Patricia Ramos,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Jessa Lim,False
+TXN-01063,2024-09-05,18:15,Quezon City,Nico Garcia,Iced Americano,Cold Drinks,1,130.0,130.0,Debit Card,Paolo Cruz,True
+TXN-01064,2024-11-10,16:30,Cubao,Maria Castillo,Hot Chocolate,Hot Drinks,2,130.0,260.0,Cash,Alvin Santos,False
+TXN-01065,2024-10-10,08:00,Cubao,Sofia Cruz,Blueberry Muffin,Pastry,1,85.0,85.0,GCash,Diana Reyes,True
+TXN-01066,2024-07-10,12:45,Makati,Maria Santos,Hot Chocolate,Hot Drinks,2,130.0,260.0,Debit Card,Mark Tan,False
+TXN-01067,2024-09-05,07:15,Pasig,Luis Santos,Matcha Latte,Cold Drinks,1,160.0,160.0,Cash,Mira Flores,False
+TXN-01068,2024-03-08,20:30,Makati,Nico Santos,Brewed Coffee,Hot Drinks,1,95.0,95.0,Debit Card,Rina Ocampo,True
+TXN-01069,2024-10-28,19:45,Makati,Andrea Ramos,Hot Chocolate,Hot Drinks,3,130.0,390.0,Maya,Diana Reyes,False
+TXN-01070,2024-04-13,08:30,BGC,Carlos Ramos,Banana Bread,Pastry,2,80.0,160.0,GCash,Mira Flores,False
+TXN-01071,2024-09-04,11:15,BGC,Lea Flores,Iced Americano,Cold Drinks,5,130.0,650.0,Credit Card,Paolo Cruz,True
+TXN-01072,2024-07-22,19:15,Pasig,Juan Bautista,Matcha Latte,Cold Drinks,2,160.0,320.0,Maya,Rina Ocampo,True
+TXN-01073,2024-02-18,15:15,Cubao,Ana Cruz,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Ryan Go,True
+TXN-01074,2024-01-31,19:45,Quezon City,Andrea De Leon,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Cash,Alvin Santos,False
+TXN-01075,2024-01-03,11:15,Mandaluyong,Andrea Bautista,Cinnamon Roll,Pastry,2,100.0,200.0,Maya,Ryan Go,False
+TXN-01076,2024-09-20,15:00,Makati,Lea Cruz,Americano,Hot Drinks,2,120.0,240.0,GCash,Mark Tan,True
+TXN-01077,2024-04-11,14:00,Quezon City,Tanya Mendoza,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Mira Flores,False
+TXN-01078,2024-01-05,11:00,Alabang,Isabella Lopez,Matcha Latte,Cold Drinks,2,160.0,320.0,Debit Card,Alvin Santos,True
+TXN-01079,2024-03-13,11:15,Ortigas,Isabella Mendoza,Cheese Danish,Pastry,2,90.0,180.0,GCash,Alvin Santos,True
+TXN-01080,2024-03-25,15:45,BGC,Carla Mendoza,Cappuccino,Hot Drinks,1,145.0,145.0,Cash,Diana Reyes,True
+TXN-01081,2024-04-12,18:00,Ortigas,Jose Villanueva,Cinnamon Roll,Pastry,1,100.0,100.0,Debit Card,Rina Ocampo,True
+TXN-01082,2024-06-28,17:15,Cubao,Isabella Torres,Iced Americano,Cold Drinks,4,130.0,520.0,Debit Card,Diana Reyes,False
+TXN-01083,2024-11-15,19:45,Quezon City,Sofia Reyes,Cold Brew,Cold Drinks,2,150.0,300.0,Cash,Paolo Cruz,False
+TXN-01084,2024-04-01,11:00,Pasig,Lea Flores,Hot Chocolate,Hot Drinks,2,130.0,260.0,Debit Card,Ryan Go,True
+TXN-01085,2024-03-27,07:15,Quezon City,Renz Cruz,Brewed Coffee,Hot Drinks,4,95.0,380.0,GCash,Ryan Go,True
+TXN-01086,2024-06-14,08:00,Ortigas,Nico Bautista,Hot Chocolate,Hot Drinks,3,130.0,390.0,Maya,Diana Reyes,True
+TXN-01087,2024-05-03,15:45,Alabang,Marco Torres,Strawberry Frappe,Cold Drinks,2,175.0,350.0,Debit Card,Mark Tan,True
+TXN-01088,2024-03-26,17:30,Ortigas,Felix Mendoza,Blueberry Muffin,Pastry,3,85.0,255.0,Maya,Mark Tan,False
+TXN-01089,2024-11-29,12:15,Cubao,Marco Aquino,Cappuccino,Hot Drinks,3,145.0,435.0,GCash,Paolo Cruz,False
+TXN-01090,2024-07-10,09:00,Pasig,Sofia Santos,Americano,Hot Drinks,1,120.0,120.0,Maya,Mark Tan,False
+TXN-01091,2024-05-09,15:00,Ortigas,Isabella Bautista,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Jessa Lim,False
+TXN-01092,2024-05-20,17:00,Ortigas,Ramon Villanueva,Chocolate Croissant,Pastry,3,95.0,285.0,Credit Card,Rina Ocampo,False
+TXN-01093,2024-11-27,19:00,Quezon City,Carla Aquino,Cappuccino,Hot Drinks,1,145.0,145.0,GCash,Mark Tan,False
+TXN-01094,2024-03-02,07:45,Mandaluyong,Felix Torres,Chocolate Croissant,Pastry,1,95.0,95.0,Debit Card,Jessa Lim,False
+TXN-01095,2024-12-10,20:30,Alabang,Clara Aquino,Blueberry Muffin,Pastry,4,85.0,340.0,Debit Card,Jessa Lim,False
+TXN-01096,2024-08-01,20:00,Pasig,Tanya Cruz,Caramel Latte,Hot Drinks,3,155.0,465.0,Cash,Rina Ocampo,False
+TXN-01097,2024-01-23,11:15,Pasig,Maria Torres,Banana Bread,Pastry,1,80.0,80.0,Debit Card,Alvin Santos,True
+TXN-01098,2024-06-23,14:00,BGC,Ana Cruz,Cinnamon Roll,Pastry,1,100.0,100.0,GCash,Alvin Santos,True
+TXN-01099,2024-03-27,19:00,Mandaluyong,Luis Torres,Cappuccino,Hot Drinks,2,145.0,290.0,GCash,Diana Reyes,True
+TXN-01100,2024-07-13,18:30,Mandaluyong,Andrea Ramos,Cappuccino,Hot Drinks,1,145.0,145.0,GCash,Diana Reyes,True
+TXN-01101,2024-03-31,11:30,Alabang,Ramon Flores,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Ryan Go,True
+TXN-01102,2024-01-19,20:45,Pasig,Nico Flores,Hot Chocolate,Hot Drinks,2,130.0,260.0,GCash,Alvin Santos,False
+TXN-01103,2024-02-16,15:15,BGC,Jose Gonzales,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Debit Card,Rina Ocampo,False
+TXN-01104,2024-03-12,14:30,Makati,Clara Gonzales,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Mark Tan,False
+TXN-01105,2024-01-05,09:45,Alabang,Juan Cruz,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Rina Ocampo,False
+TXN-01106,2024-10-06,09:00,Cubao,Clara Aquino,Cold Brew,Cold Drinks,2,150.0,300.0,Credit Card,Ryan Go,True
+TXN-01107,2024-05-09,18:30,Makati,Lea Torres,Cheese Danish,Pastry,2,90.0,180.0,GCash,Mark Tan,False
+TXN-01108,2024-08-06,19:30,Quezon City,Miguel Lopez,Cinnamon Roll,Pastry,2,100.0,200.0,Maya,Paolo Cruz,True
+TXN-01109,2024-03-07,17:30,Alabang,Carla Castillo,Brewed Coffee,Hot Drinks,1,95.0,95.0,Credit Card,Mira Flores,True
+TXN-01110,2024-08-23,07:15,Mandaluyong,Ana Cruz,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Mira Flores,True
+TXN-01111,2024-05-05,09:30,Cubao,Juan Mendoza,Americano,Hot Drinks,1,120.0,120.0,GCash,Ryan Go,False
+TXN-01112,2024-08-25,18:15,Alabang,Carla Ramos,Americano,Hot Drinks,1,120.0,120.0,Maya,Mira Flores,False
+TXN-01113,2024-09-30,08:30,Mandaluyong,Renz Cruz,Cold Brew,Cold Drinks,1,150.0,150.0,Maya,Alvin Santos,False
+TXN-01114,2024-09-13,20:00,Mandaluyong,Ana Bautista,Banana Bread,Pastry,3,80.0,240.0,GCash,Ryan Go,True
+TXN-01115,2024-01-23,10:30,Quezon City,Miguel Ramos,Iced Americano,Cold Drinks,1,130.0,130.0,Maya,Diana Reyes,False
+TXN-01116,2024-12-11,20:45,Quezon City,Nico Cruz,Cappuccino,Hot Drinks,4,145.0,580.0,Credit Card,Mark Tan,False
+TXN-01117,2024-02-12,12:00,Alabang,Maria Cruz,Cinnamon Roll,Pastry,3,100.0,300.0,GCash,Mira Flores,False
+TXN-01118,2024-01-06,14:45,BGC,Isabella Aquino,Iced Americano,Cold Drinks,1,130.0,130.0,Debit Card,Ryan Go,False
+TXN-01119,2024-08-30,18:30,Cubao,Miguel Ramos,Cheese Danish,Pastry,1,90.0,90.0,Cash,Rina Ocampo,True
+TXN-01120,2024-06-21,18:30,Makati,Patricia Ramos,Hot Chocolate,Hot Drinks,3,130.0,390.0,Credit Card,Diana Reyes,True
+TXN-01121,2024-03-03,20:45,Alabang,Renz Bautista,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Mira Flores,False
+TXN-01122,2024-12-11,11:00,Makati,Marco Ramos,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Alvin Santos,False
+TXN-01123,2024-11-21,07:00,Quezon City,Lea Garcia,Iced Americano,Cold Drinks,2,130.0,260.0,Cash,Mark Tan,True
+TXN-01124,2024-03-15,17:45,Mandaluyong,Patricia Aquino,Matcha Latte,Cold Drinks,1,160.0,160.0,Debit Card,Ryan Go,True
+TXN-01125,2024-02-09,12:30,BGC,Juan Ramos,Caramel Latte,Hot Drinks,2,155.0,310.0,Maya,Diana Reyes,False
+TXN-01126,2024-07-24,07:15,Cubao,Ana De Leon,Cheese Danish,Pastry,2,90.0,180.0,Cash,Paolo Cruz,False
+TXN-01127,2024-06-04,16:15,Cubao,Ramon Garcia,Chocolate Croissant,Pastry,1,95.0,95.0,Maya,Rina Ocampo,False
+TXN-01128,2024-09-13,17:00,Makati,Carlos Torres,Cinnamon Roll,Pastry,4,100.0,400.0,Credit Card,Paolo Cruz,True
+TXN-01129,2024-07-31,17:15,Mandaluyong,Andrea Reyes,Matcha Latte,Cold Drinks,2,160.0,320.0,GCash,Jessa Lim,False
+TXN-01130,2024-04-23,08:30,Alabang,Clara Ramos,Banana Bread,Pastry,3,80.0,240.0,Debit Card,Mira Flores,False
+TXN-01131,2024-10-12,07:30,Ortigas,Patricia Cruz,Matcha Latte,Cold Drinks,1,160.0,160.0,Credit Card,Paolo Cruz,True
+TXN-01132,2024-12-10,13:30,Ortigas,Clara Reyes,Iced Americano,Cold Drinks,2,130.0,260.0,Debit Card,Alvin Santos,True
+TXN-01133,2024-04-16,18:30,Ortigas,Patricia Bautista,Matcha Latte,Cold Drinks,3,160.0,480.0,Cash,Rina Ocampo,True
+TXN-01134,2024-11-15,12:45,Ortigas,Carlos Lopez,Iced Americano,Cold Drinks,3,130.0,390.0,GCash,Mira Flores,True
+TXN-01135,2024-07-12,16:00,Pasig,Juan Villanueva,Americano,Hot Drinks,1,120.0,120.0,GCash,Rina Ocampo,False
+TXN-01136,2024-10-08,13:30,Alabang,Isabella Flores,Americano,Hot Drinks,4,120.0,480.0,Cash,Alvin Santos,False
+TXN-01137,2024-04-25,20:45,Quezon City,Patricia Cruz,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Credit Card,Diana Reyes,True
+TXN-01138,2024-09-29,20:30,Cubao,Juan Ramos,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Credit Card,Mira Flores,True
+TXN-01139,2024-11-21,07:15,Cubao,Ana Villanueva,Hot Chocolate,Hot Drinks,2,130.0,260.0,Cash,Alvin Santos,True
+TXN-01140,2024-03-26,16:45,Cubao,Maria Aquino,Chocolate Croissant,Pastry,4,95.0,380.0,Debit Card,Paolo Cruz,True
+TXN-01141,2024-08-22,12:15,Quezon City,Sofia Flores,Americano,Hot Drinks,4,120.0,480.0,Maya,Mark Tan,True
+TXN-01142,2024-04-15,16:45,Quezon City,Patricia Garcia,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Credit Card,Mark Tan,False
+TXN-01143,2024-03-22,10:45,Cubao,Jose Bautista,Chocolate Croissant,Pastry,1,95.0,95.0,Debit Card,Ryan Go,False
+TXN-01144,2024-02-06,19:45,Makati,Renz Bautista,Cold Brew,Cold Drinks,1,150.0,150.0,Credit Card,Ryan Go,True
+TXN-01145,2024-05-29,19:45,Ortigas,Tanya Bautista,Chocolate Croissant,Pastry,1,95.0,95.0,Credit Card,Mark Tan,True
+TXN-01146,2024-03-15,20:30,Alabang,Marco Ramos,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Paolo Cruz,False
+TXN-01147,2024-04-17,11:00,Mandaluyong,Ramon Castillo,Iced Americano,Cold Drinks,2,130.0,260.0,Maya,Alvin Santos,False
+TXN-01148,2024-12-18,14:30,Quezon City,Renz Santos,Matcha Latte,Cold Drinks,2,160.0,320.0,GCash,Diana Reyes,True
+TXN-01149,2024-04-23,12:30,Pasig,Miguel Villanueva,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Ryan Go,False
+TXN-01150,2024-03-20,18:15,Mandaluyong,Lea Torres,Hot Chocolate,Hot Drinks,1,130.0,130.0,Cash,Paolo Cruz,False
+TXN-01151,2024-03-16,16:00,Ortigas,Tanya Ramos,Matcha Latte,Cold Drinks,2,160.0,320.0,Debit Card,Rina Ocampo,False
+TXN-01152,2024-11-25,09:30,Quezon City,Ramon Bautista,Cheese Danish,Pastry,1,90.0,90.0,Debit Card,Ryan Go,True
+TXN-01153,2024-09-04,13:00,Mandaluyong,Carlos Garcia,Chocolate Croissant,Pastry,1,95.0,95.0,GCash,Diana Reyes,True
+TXN-01154,2024-11-28,10:30,Mandaluyong,Maria De Leon,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Alvin Santos,True
+TXN-01155,2024-07-23,17:00,BGC,Felix Lopez,Cold Brew,Cold Drinks,1,150.0,150.0,Cash,Ryan Go,True
+TXN-01156,2024-05-05,11:15,Makati,Patricia Cruz,Blueberry Muffin,Pastry,1,85.0,85.0,Debit Card,Diana Reyes,False
+TXN-01157,2024-02-16,18:15,Pasig,Carla Lopez,Chocolate Croissant,Pastry,4,95.0,380.0,Cash,Paolo Cruz,True
+TXN-01158,2024-05-04,16:45,BGC,Jose Flores,Iced Americano,Cold Drinks,2,130.0,260.0,GCash,Ryan Go,True
+TXN-01159,2024-08-14,08:45,Ortigas,Sofia Villanueva,Brewed Coffee,Hot Drinks,2,95.0,190.0,Maya,Jessa Lim,False
+TXN-01160,2024-02-27,18:45,Ortigas,Renz Castillo,Blueberry Muffin,Pastry,2,85.0,170.0,Cash,Diana Reyes,False
+TXN-01161,2024-11-03,11:45,Pasig,Ramon Lopez,Blueberry Muffin,Pastry,1,85.0,85.0,Maya,Diana Reyes,True
+TXN-01162,2024-06-23,11:30,Makati,Miguel Mendoza,Cinnamon Roll,Pastry,1,100.0,100.0,Maya,Ryan Go,False
+TXN-01163,2024-03-24,09:00,Quezon City,Patricia Flores,Matcha Latte,Cold Drinks,1,160.0,160.0,GCash,Mark Tan,True
+TXN-01164,2024-04-19,11:30,Mandaluyong,Carlos Gonzales,Cold Brew,Cold Drinks,2,150.0,300.0,Debit Card,Rina Ocampo,False
+TXN-01165,2024-03-21,10:45,Ortigas,Miguel Flores,Caramel Latte,Hot Drinks,2,155.0,310.0,Debit Card,Mira Flores,False
+TXN-01166,2024-04-27,11:45,Alabang,Andrea Aquino,Matcha Latte,Cold Drinks,1,160.0,160.0,Maya,Ryan Go,False
+TXN-01167,2024-08-05,16:45,Cubao,Lea Santos,Iced Americano,Cold Drinks,3,130.0,390.0,Maya,Rina Ocampo,False
+TXN-01168,2024-05-20,07:15,Alabang,Marco Santos,Cappuccino,Hot Drinks,1,145.0,145.0,Credit Card,Mira Flores,False
+TXN-01169,2024-10-12,15:15,BGC,Isabella Reyes,Hot Chocolate,Hot Drinks,2,130.0,260.0,GCash,Rina Ocampo,False
+TXN-01170,2024-09-02,18:45,Pasig,Ramon Garcia,Americano,Hot Drinks,2,120.0,240.0,Debit Card,Mira Flores,True
+TXN-01171,2024-02-21,07:30,Ortigas,Carlos Reyes,Cold Brew,Cold Drinks,1,150.0,150.0,GCash,Mark Tan,False
+TXN-01172,2024-07-30,20:15,BGC,Sofia Lopez,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Paolo Cruz,False
+TXN-01173,2024-10-20,15:30,BGC,Maria Cruz,Banana Bread,Pastry,3,80.0,240.0,Maya,Alvin Santos,False
+TXN-01174,2024-04-19,09:30,Pasig,Andrea Garcia,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Maya,Jessa Lim,True
+TXN-01175,2024-03-02,17:45,Makati,Jose De Leon,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Debit Card,Alvin Santos,True
+TXN-01176,2024-10-16,13:00,Alabang,Ramon Torres,Cheese Danish,Pastry,3,90.0,270.0,Cash,Mark Tan,True
+TXN-01177,2024-10-12,19:00,Ortigas,Ana Villanueva,Blueberry Muffin,Pastry,3,85.0,255.0,Debit Card,Paolo Cruz,True
+TXN-01178,2024-12-16,13:30,Alabang,Carla Bautista,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Cash,Rina Ocampo,False
+TXN-01179,2024-08-20,15:45,Cubao,Maria Villanueva,Americano,Hot Drinks,2,120.0,240.0,Cash,Jessa Lim,True
+TXN-01180,2024-06-14,13:15,Ortigas,Andrea Lopez,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,GCash,Alvin Santos,True
+TXN-01181,2024-04-06,19:15,Makati,Maria Lopez,Cappuccino,Hot Drinks,1,145.0,145.0,GCash,Alvin Santos,True
+TXN-01182,2024-06-16,20:30,Pasig,Miguel Ramos,Caramel Latte,Hot Drinks,1,155.0,155.0,GCash,Paolo Cruz,False
+TXN-01183,2024-01-14,09:45,Makati,Sofia Ramos,Americano,Hot Drinks,1,120.0,120.0,Credit Card,Ryan Go,False
+TXN-01184,2024-04-11,10:45,BGC,Miguel Lopez,Chocolate Croissant,Pastry,1,95.0,95.0,GCash,Paolo Cruz,True
+TXN-01185,2024-09-07,18:30,Alabang,Sofia Reyes,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Diana Reyes,True
+TXN-01186,2024-08-21,07:00,Alabang,Juan Flores,Strawberry Frappe,Cold Drinks,1,175.0,175.0,Maya,Mark Tan,False
+TXN-01187,2024-11-29,11:15,Ortigas,Lea Gonzales,Chocolate Croissant,Pastry,2,95.0,190.0,Cash,Diana Reyes,False
+TXN-01188,2024-01-24,09:15,Quezon City,Tanya Cruz,Hot Chocolate,Hot Drinks,1,130.0,130.0,Credit Card,Jessa Lim,True
+TXN-01189,2024-11-01,19:15,Quezon City,Nico De Leon,Cheese Danish,Pastry,1,90.0,90.0,Credit Card,Rina Ocampo,True
+TXN-01190,2024-09-22,09:15,Mandaluyong,Maria Mendoza,Iced Americano,Cold Drinks,3,130.0,390.0,Maya,Mira Flores,False
+TXN-01191,2024-05-15,16:30,Quezon City,Ramon Santos,Brewed Coffee,Hot Drinks,1,95.0,95.0,Credit Card,Jessa Lim,False
+TXN-01192,2024-11-02,18:15,Cubao,Luis Reyes,Brewed Coffee,Hot Drinks,1,95.0,95.0,Cash,Mark Tan,False
+TXN-01193,2024-08-25,13:45,Ortigas,Maria Torres,Hot Chocolate,Hot Drinks,3,130.0,390.0,Credit Card,Diana Reyes,True
+TXN-01194,2024-06-14,17:30,Quezon City,Clara Garcia,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Rina Ocampo,True
+TXN-01195,2024-04-25,17:00,BGC,Carlos Gonzales,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Paolo Cruz,False
+TXN-01196,2024-04-04,18:30,Pasig,Tanya Lopez,Strawberry Frappe,Cold Drinks,2,175.0,350.0,GCash,Alvin Santos,False
+TXN-01197,2024-07-10,17:15,Makati,Lea Bautista,Chocolate Croissant,Pastry,2,95.0,190.0,GCash,Rina Ocampo,True
+TXN-01198,2024-03-14,17:00,Ortigas,Maria Villanueva,Caramel Latte,Hot Drinks,1,155.0,155.0,Credit Card,Alvin Santos,True
+TXN-01199,2024-11-17,20:45,Ortigas,Isabella Lopez,Iced Caramel Latte,Cold Drinks,2,165.0,330.0,Cash,Diana Reyes,False
+TXN-01200,2024-06-21,09:30,BGC,Patricia Bautista,Strawberry Frappe,Cold Drinks,3,175.0,525.0,Maya,Diana Reyes,True
